@@ -1,9 +1,9 @@
 import * as React from 'react';
 import { createStackNavigator } from '@react-navigation/stack';
-import HomeScreen from './HomeScreen.js';
-import QuotesScreen from './QuotesScreen.js';
-import SayingsScreen from './SayingsScreen.js';
-import IdiomsScreen from './IdiomsScreen.js';
+import HomeScreen from '../HomeScreen.js';
+import QuotesScreen from '../QuotesScreen.js';
+import SayingsScreen from '../SayingsScreen.js';
+import IdiomsScreen from '../IdiomsScreen.js';
 
 const Stack = createStackNavigator();
 
