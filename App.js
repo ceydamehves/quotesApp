@@ -1,14 +1,13 @@
-import React from 'react';
-import { Text, View } from 'react-native';
+import * as React from 'react';
+import { NavigationContainer } from '@react-navigation/native';
+import AppNavigator from './src/screens/navigation/AppNavigator.js';
 
 const App = () => {
-  return (
-    <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      <Text>
-        my quotes app 🎉
-      </Text>
-    </View>
-  );
+ return (
+  <NavigationContainer>
+   <AppNavigator />
+  </NavigationContainer>
+ );
 }
 
 export default App;
