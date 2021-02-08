@@ -10,7 +10,7 @@ const IdiomsMeaning = () => {
     <View style={{ flex: 1, backgroundColor:'#fff' }}>
       <View style={styles.header}>        
         <TouchableOpacity style={styles.backButton}
-                          onPress={() => {navigation.navigate('Home')}}>
+                          onPress={() => {navigation.navigate('Sayings')}}>
         <Image style={styles.backImage}
                         source={require ('../assets/back.png')}/>
         </TouchableOpacity>
