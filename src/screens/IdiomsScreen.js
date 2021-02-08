@@ -19,7 +19,8 @@ const IdiomsScreen = () => {
       </View>
 
       <ScrollView style={{ flex: 1 }}>
-        <TouchableOpacity style={styles.quotes}>          
+      <TouchableOpacity style={styles.quotes}
+                          onPress={() => {navigation.navigate('IdiomsM')}}>          
             <Text style={styles.text}>text</Text>
             <Image style={styles.forwardButton}
                         source={require ('../assets/forward.png')}/>
