@@ -7,7 +7,7 @@ import {useNavigation} from '@react-navigation/native';
 const QuotesScreen = () => {
   const navigation = useNavigation();
   return (
-    <View style={{ flex: 1 }}>
+    <View style={{ flex: 1, backgroundColor:'#fff' }}>
       <View style={styles.header}>        
         <TouchableOpacity style={styles.backButton}
                           onPress={() => {navigation.navigate('Home')}}>
