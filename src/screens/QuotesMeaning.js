@@ -1,16 +1,27 @@
 import React from 'react';
 import { ScrollView, Text, View, Image, TouchableOpacity } from 'react-native';
 import { StyleSheet,Dimensions } from 'react-native';
-import {useNavigation} from '@react-navigation/native';
+
+const database = require('../databaseQuote.json');
+
+class QuotesMeaning extends React.Component{
+
+  constructor (props) {
+    super (props)
+    date = new Date();
+    this.state = {
+      tr: database.months[date.getMonth()+1][date.getDate()]["tr"],
+      en: database.months[date.getMonth()+1][date.getDate()]["en"],
+    }
+  }
 
 
-const IdiomsMeaning = () => {
-  const navigation = useNavigation();
+render(){
   return (
     <View style={{ flex: 1, backgroundColor:'#fff' }}>
       <View style={styles.header}>        
         <TouchableOpacity style={styles.backButton}
-                          onPress={() => {navigation.navigate('Quotes')}}>
+                          onPress={() => {this.props.navigation.navigate('Quotes')}}>
         <Image style={styles.backImage}
                         source={require ('../assets/back.png')}/>
         </TouchableOpacity>
@@ -23,22 +34,22 @@ const IdiomsMeaning = () => {
           <Text style={styles.titleText}>TR</Text>
         </View>
         <View style={styles.textHolder}>
-          <Text style={{alignSelf:'center'}}>bla bla bla</Text>
+          <Text style={styles.text}>{this.state.tr}</Text>
         </View>
 
         <View style={styles.title}>
           <Text style={styles.titleText}>EN</Text>
         </View>
         <View style={styles.textHolder}>
-          <Text style={{alignSelf:'center'}}>bla bla bla</Text>
+          <Text style={styles.text}>{this.state.en}</Text>
         </View>
 
       </ScrollView>
       </View>
   );
 }
-
-export default IdiomsMeaning;
+}
+export default QuotesMeaning;
 
 const styles = StyleSheet.create({
   header: {
@@ -91,6 +102,15 @@ const styles = StyleSheet.create({
     borderRadius: 30, 
     borderWidth: 3, 
     borderColor:'#7C76C9'
+  },
+  text: {
+    alignSelf:'center', 
+    marginTop:15, 
+    marginLeft:10, 
+    marginRight:10,
+    color:'#7C76C9',
+    fontWeight:'bold',
+    fontSize: 14
   }
 })
 

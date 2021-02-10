@@ -21,7 +21,7 @@ render(){
     <View style={{ flex: 1, backgroundColor:'#fff' }}>
       <View style={styles.header}>        
         <TouchableOpacity style={styles.backButton}
-                          onPress={() => {this.props.navigation.navigate('Quotes')}}>
+                          onPress={() => {this.props.navigation.navigate('Home')}}>
         <Image style={styles.backImage}
                         source={require ('../assets/back.png')}/>
         </TouchableOpacity>

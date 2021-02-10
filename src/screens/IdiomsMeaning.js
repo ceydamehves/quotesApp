@@ -1,16 +1,27 @@
 import React from 'react';
 import { ScrollView, Text, View, Image, TouchableOpacity } from 'react-native';
 import { StyleSheet,Dimensions } from 'react-native';
-import {useNavigation} from '@react-navigation/native';
+
+const database = require('../databaseIdioms.json');
+
+class IdiomsMeaning extends React.Component{
+
+  constructor (props) {
+    super (props)
+    date = new Date();
+    this.state = {
+      tr: database.months[date.getMonth()+1][date.getDate()]["tr"],
+      en: database.months[date.getMonth()+1][date.getDate()]["en"],
+    }
+  }
 
 
-const IdiomsMeaning = () => {
-  const navigation = useNavigation();
+render(){
   return (
     <View style={{ flex: 1, backgroundColor:'#fff' }}>
       <View style={styles.header}>        
         <TouchableOpacity style={styles.backButton}
-                          onPress={() => {navigation.navigate('Idioms')}}>
+                          onPress={() => {this.props.navigation.navigate('Idioms')}}>
         <Image style={styles.backImage}
                         source={require ('../assets/back.png')}/>
         </TouchableOpacity>
@@ -23,21 +34,21 @@ const IdiomsMeaning = () => {
           <Text style={styles.titleText}>TR</Text>
         </View>
         <View style={styles.textHolder}>
-          <Text style={{alignSelf:'center'}}>bla bla bla</Text>
+          <Text style={styles.text}>{this.state.tr}</Text>
         </View>
 
         <View style={styles.title}>
           <Text style={styles.titleText}>EN</Text>
         </View>
         <View style={styles.textHolder}>
-          <Text style={{alignSelf:'center'}}>bla bla bla</Text>
+          <Text style={styles.text}>{this.state.en}</Text>
         </View>
 
       </ScrollView>
       </View>
   );
 }
-
+}
 export default IdiomsMeaning;
 
 const styles = StyleSheet.create({
@@ -45,7 +56,7 @@ const styles = StyleSheet.create({
     alignSelf:'center',
     width: Dimensions.get('window').width * 1,
     height: Dimensions.get('window').height * 0.25,
-    backgroundColor:'#E76F93', 
+    backgroundColor:'#68C6E8', 
     borderBottomRightRadius: 180,
     borderBottomLeftRadius: 180,
     elevation: 8
@@ -72,7 +83,7 @@ const styles = StyleSheet.create({
     marginRight: 300, 
     height:30, 
     width:50 , 
-    backgroundColor:'#E76F93', 
+    backgroundColor:'#68C6E8', 
     borderRadius: 20, 
     elevation:5
   },
@@ -90,7 +101,16 @@ const styles = StyleSheet.create({
     height: Dimensions.get('window').height * 0.12, 
     borderRadius: 30, 
     borderWidth: 3, 
-    borderColor:'#E76F93'
+    borderColor:'#68C6E8'
+  },
+  text: {
+    alignSelf:'center', 
+    marginTop:15, 
+    marginLeft:10, 
+    marginRight:10,
+    color:'#68C6E8',
+    fontWeight:'bold',
+    fontSize: 14
   }
 })
 

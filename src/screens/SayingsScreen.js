@@ -1,5 +1,5 @@
 import React from 'react';
-import { ScrollView, Text, View, Image, TouchableOpacity } from 'react-native';
+import { Text, View, Image, TouchableOpacity } from 'react-native';
 import { StyleSheet,Dimensions } from 'react-native';
 import {useNavigation} from '@react-navigation/native';
 
@@ -18,14 +18,22 @@ const SayingsScreen = () => {
                         source={require ('../assets/Sayings.png')}/>
       </View>
 
-      <ScrollView style={{ flex: 1 }}>
-      <TouchableOpacity style={styles.quotes}
-                          onPress={() => {navigation.navigate('SayingsM')}}>     
-            <Text style={styles.text}>text</Text>
+      <View style={{ flex: 0.8 , justifyContent:'center'}}>
+        <TouchableOpacity style={styles.quotes}
+                          onPress={() => {
+                            navigation.navigate('SayingsM')}}>            
+            <Text style={styles.text}>Günün 'saying' i</Text>
             <Image style={styles.forwardButton}
                         source={require ('../assets/forward.png')}/>
         </TouchableOpacity>
-      </ScrollView>
+        <TouchableOpacity style={styles.quotes}
+                          onPress={() => {
+                            navigation.navigate('FamousW')}}>            
+            <Text style={styles.text}>Günün Sözü</Text>
+            <Image style={styles.forwardButton}
+                        source={require ('../assets/forward.png')}/>
+        </TouchableOpacity>
+      </View>
 
     </View>
   );
@@ -37,8 +45,8 @@ const styles = StyleSheet.create({
   header: {
     alignSelf:'center',
     width: Dimensions.get('window').width * 1,
-    height: Dimensions.get('window').height * 0.25,
-    backgroundColor:'#68C6E8', 
+    height: Dimensions.get('window').height * 0.3,
+    backgroundColor:'#E76F93', 
     borderBottomRightRadius: 180,
     borderBottomLeftRadius: 180,
     elevation: 8
@@ -50,7 +58,7 @@ const styles = StyleSheet.create({
   },
   backButton: {
     alignSelf:'center',
-    marginTop: 75,
+    marginTop: 100,
     marginRight: 130,
     height: 25,
     width: 25,
@@ -61,17 +69,19 @@ const styles = StyleSheet.create({
     width: 25,
   },
   forwardButton: {
-    marginLeft: 15,
+    flexDirection:'row',
+    
     alignSelf:'center',
     height: 20,
     width: 17,
   },
   quotes: {
     flexDirection:'row',
+    justifyContent:'center',
     alignSelf:'center',
     marginTop: 20,
-    backgroundColor:'#68C6E8',
-    width: Dimensions.get('window').width * 0.9,
+    backgroundColor:'#E76F93',
+    width: Dimensions.get('window').width * 0.7,
     height: Dimensions.get('window').height * 0.12,
     borderRadius: 30,    
     elevation: 8
