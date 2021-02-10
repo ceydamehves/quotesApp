@@ -1,5 +1,5 @@
 import React from 'react';
-import { Text, View, Image, TouchableOpacity } from 'react-native';
+import { Text, View, Image, TouchableOpacity, ImageBackground } from 'react-native';
 import { StyleSheet,Dimensions } from 'react-native';
 import {useNavigation} from '@react-navigation/native';
 
@@ -8,6 +8,7 @@ const SayingsScreen = () => {
   const navigation = useNavigation();
   return (
     <View style={{ flex: 1, backgroundColor:'#fff' }}>
+       <ImageBackground source={require ('../assets/bg.png')} style={styles.bg}>
       <View style={styles.header}>        
         <TouchableOpacity style={styles.backButton}
                           onPress={() => {navigation.navigate('Home')}}>
@@ -34,7 +35,7 @@ const SayingsScreen = () => {
                         source={require ('../assets/forward.png')}/>
         </TouchableOpacity>
       </View>
-
+      </ImageBackground>                       
     </View>
   );
 }
@@ -42,6 +43,10 @@ const SayingsScreen = () => {
 export default SayingsScreen;
 
 const styles = StyleSheet.create({
+  bg:{
+    width: Dimensions.get('window').width * 1,
+    height: Dimensions.get('window').height * 1
+  },
   header: {
     alignSelf:'center',
     width: Dimensions.get('window').width * 1,

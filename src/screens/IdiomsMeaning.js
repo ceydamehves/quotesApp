@@ -1,5 +1,5 @@
 import React from 'react';
-import { ScrollView, Text, View, Image, TouchableOpacity } from 'react-native';
+import { ScrollView, Text, View, Image, TouchableOpacity, ImageBackground } from 'react-native';
 import { StyleSheet,Dimensions } from 'react-native';
 
 const database = require('../databaseIdioms.json');
@@ -19,6 +19,7 @@ class IdiomsMeaning extends React.Component{
 render(){
   return (
     <View style={{ flex: 1, backgroundColor:'#fff' }}>
+      <ImageBackground source={require ('../assets/bg.png')} style={styles.bg}>
       <View style={styles.header}>        
         <TouchableOpacity style={styles.backButton}
                           onPress={() => {this.props.navigation.navigate('Idioms')}}>
@@ -45,6 +46,7 @@ render(){
         </View>
 
       </ScrollView>
+      </ImageBackground>
       </View>
   );
 }
@@ -52,6 +54,10 @@ render(){
 export default IdiomsMeaning;
 
 const styles = StyleSheet.create({
+  bg:{
+    width: Dimensions.get('window').width * 1,
+    height: Dimensions.get('window').height * 1
+  },
   header: {
     alignSelf:'center',
     width: Dimensions.get('window').width * 1,
