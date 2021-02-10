@@ -1,0 +1,1501 @@
+{
+    "months": 
+    {
+      "0": {
+        "1": {
+          "tr": "At at oluncaya kadar sahibi mat olur",
+          "en": "Bringing up someone shall bring you great suffering"
+        },
+        "2": {
+          "tr": "İncir babadan, zeytin dededen",
+          "en": "One generation plants the trees under whose shade another takes its ease"
+        },
+        "3": {
+          "tr": "Emeğe saygı",
+          "en": "Respect for labour / work"
+        },
+        "4": {
+          "tr": "Ağlanacak haline gülmek",
+          "en": "Laugh at your misery"
+        },
+        "5": {
+          "tr": "Aba altından değnek/sopa göstermek",
+          "en": "Make a veiled threat"
+        },
+        "6": {
+          "tr": "Anlayana sivrisinek saz, anlamayana davul zurna az",
+          "en": "A word to the wise is enough"
+        },
+        "7": {
+          "tr": "Aynası iştir kişinin lafa bakılmaz",
+          "en": "Actions speak louder than words"
+        },
+        "8": {
+          "tr": "Çocuktan al haberi",
+          "en": "Little pitchers have big ears"
+        },
+        "9": {
+          "tr": "Bölmesini bilmeyen çarpmasını bilemez",
+          "en": "Those who do not know the nuts and bolts of the business are doomed to failure"
+        },
+        "10": {
+          "tr": "Bükemediğin eli öpmek",
+          "en": "If you can't beat 'em, join 'em"
+        },
+        "11": {
+          "tr": "Bir çuval inciri berbat etmek",
+          "en": "Upset the applecar"
+        },
+        "12": {
+          "tr": "Dünyanın çivisi çıkmış",
+          "en": "The world is out of joint. / The world has gone to the dogs."
+        },
+        "13": {
+          "tr": "Dediğim dedik, çaldığım düdük",
+          "en": "What I say goes!"
+        },
+        "14": {
+          "tr": "Gökyüzünde düğün var deseler kadınlar merdiven kurmaya kalkar",
+          "en": "Tell a woman there is a wedding in the sky and watch her look for a ladder in the blink of an eye"
+        },
+        "15": {
+          "tr": "Görmezden gelmek",
+          "en": "To pretend not to notice someone"
+        },
+        "16": {
+          "en": "Every cloud has a silver lining",
+          "tr": "Her işte bir hayır vardır"
+        },
+        "17": {
+          "tr": "Her yiğidin/babayiğidin harcı değil",
+          "en": "Not every man has the guts / the bottle to ..."
+        },
+        "18": {
+          "tr": "Kötü komşu insanı ev sahibi yapar - Ev alma, komşu al",
+          "en": "Don't buy the house, buy the neighborhood"
+        },
+        "19": {
+          "tr": "Lokma çiğnenmeden yutulmaz",
+          "en": "no pain no gain / easy come easy go"
+        },
+        "20": {
+          "tr": "Yumurtaları kırmadan omlet yapamazsın.",
+          "en": "You can’t make an omelette without breaking some eggs first."
+        },
+        "21": {
+          "tr": "İki yanlış bir doğru etmez.",
+          "en": "Two wrongs don’t make a right."
+        },
+        "22": {
+          "tr": "Kalem kılıçtan keskindir.",
+          "en": "The pen is mightier than the sword."
+        },
+        "23": {
+          "tr": "Şans cesur olandan yanadır.",
+          "en": "Fortune favors the bold."
+        },
+        "24": {
+          "tr": "Geç olsun güç olmasın.",
+          "en": "Better late than never."
+        },
+        "25": {
+          "tr": "İt ulur, birbirini bulur. Tencere yuvarlanmış, kapağını bulmuş.",
+          "en": "Birds of a feather flock together."
+        },
+        "26": {
+          "tr": "Dostlarını yakın, düşmanlarını daha yakın tut.",
+          "en": "Keep your friends close and your enemies closer."
+        },
+        "27": {
+          "tr": "Erken kalkan yol alır.",
+          "en": "The early bird catches the worm."
+        },
+        "28": {
+          "tr": "Adamın adı çıkacağına canı çıksın.",
+          "en": "Give a dog bad name and hang him."
+        },
+        "29": {
+          "tr": "Ak akçe kara gün içindir",
+          "en": "Save up something for a rainy day"
+        },
+        "30": {
+          "tr": "Yuvarlanan taş yosun tutmaz - İşleyen demir pas tutmaz",
+          "en": "A rolling stone gathers no moss"
+        },
+        "31": {
+          "tr": "Yalancının mumu yatsıya kadar yanar",
+          "en": "Cheats never prosper"
+        }
+      },
+      "1": {
+        "1": {
+          "tr": "Ya bu deveyi güdersin, ya bu diyardan gidersin",
+          "en": "Do as the Romans do when in Rome"
+        },
+        "2": {
+          "tr": "Sütten ağzı yanan yoğurdu üfleyerek yer",
+          "en": "Once burnt twice shy"
+        },
+        "3": {
+          "tr": "Son gülen iyi güler",
+          "en": "He that laughs last laughs best"
+        },
+        "4": {
+          "tr": "Tatlı söz yılanı deliğinden çıkarır",
+          "en": "Good words are worth much, and cost little"
+        },
+        "5": {
+          "tr": "Karga yavrusunu şahin görür",
+          "en": "All his geese are swans"
+        },
+        "6": {
+          "tr": "Körle yatan şaşı kalkar",
+          "en": "The rotten apple injures its neighbours"
+        },
+        "7": {
+          "tr": "Dereyi görmeden paçaları sıvama",
+          "en": "It's not over until the fat lady sings"
+        },
+        "8": {
+          "tr": "Bir sürü aşçı yemeği mahveder",
+          "en": "Too many cooks spoil the broth"
+        },
+        "9": {
+          "tr": "Atı suya götürebilirsin, ama ona suyu içiremezsin",
+          "en": "You can lead a horse to water, but you can’t make him drink"
+        },
+        "10": {
+          "tr": "O kadar zor değil",
+          "en": "It's not rocket science"
+        },
+        "11": {
+          "tr": "Artık çok geç",
+          "en": "Miss the boat"
+        },
+        "12": {
+          "tr": "Şu ana kadar herşey yolunda",
+          "en": "So far so good"
+        },
+        "13": {
+          "tr": "Sabrın tükenmesi",
+          "en": "That's the last straw"
+        },
+        "14": {
+          "tr": "İdeal bir durum",
+          "en": "The best of both worlds"
+        },
+        "15": {
+          "tr": "Eğlenirken zamanın nasıl geçtiğini farketmiyorsun",
+          "en": "Time flies when you're having fun"
+        },
+        "16": {
+          "en": "We'll cross that bridge when we come to it",
+          "tr": "Şu anda sorun hakkında konuşmayalım"
+        },
+        "17": {
+          "tr": "İnsanların söylediklerine değil yaptıklarına inan",
+          "en": "Actions speak louder than words"
+        },
+        "18": {
+          "tr": "Birbirine benzeyen insanlar genelde arkadaş olur (genellikle olumsuz bir şekilde kullanılır)",
+          "en": "Birds of a feather flock together"
+        },
+        "19": {
+          "tr": "İnsanlara karşı adil davranmak. 'Altın Kural' olarak da bilinir",
+          "en": "Do unto others as you would have them do unto you"
+        },
+        "20": {
+          "tr": "Düzeltilemeyecek bir için yakınmanın faydası yok.",
+          "en": "Don't cry over spilt milk"
+        },
+        "21": {
+          "tr": "Bu işte pek iyi değilsin",
+          "en": "Don't give up your day job"
+        },
+        "22": {
+          "tr": "Yaptığın şey çok riskli",
+          "en": "Don't put all your eggs in one basket"
+        },
+        "23": {
+          "tr": "Sabırlı ol - Bekleyen kişi iyi şeylere kavuşur.",
+          "en": "Good things come to those who wait"
+        },
+        "24": {
+          "tr": "Babasının aynısı",
+          "en": "He's a chip off the old block"
+        },
+        "25": {
+          "tr": "Cehalet mutluluktur",
+          "en": "Ignorance is bliss"
+        },
+        "26": {
+          "tr": "Bu iş henüz bitmedi",
+          "en": "It ain't over till the fat lady sings"
+        },
+        "27": {
+          "tr": "Kişi kendinden bilir işi",
+          "en": "It takes one to know one"
+        },
+        "28": {
+          "tr": "Yeşe ve öğren - hata yapıldığında kullanılır",
+          "en": "Live and learn"
+        },
+        "29": {
+          "tr": "Bir fırsatı kaçırmak sorun değil. Başka fırsatlar doğar.",
+          "en": "There are other fish in the sea"
+        },
+        "30": {
+          "tr": "Deli gibi görünüyor ama aslında akıllı",
+          "en": "There's a method to his madness"
+        }
+      },
+      "2": {
+        "1": {
+          "tr": "Hiçbir şey bedava değil",
+          "en": "There's no such thing as a free lunch"
+        },
+        "2": {
+          "tr": "Her şeyi elde edemezsin",
+          "en": "You can't have your cake and eat it too"
+        },
+        "3": {
+          "tr": "Bu kişi veya şey kötü gibi görünebilir ama aslında özünde iyi - Kitabı kapağına göre yargılama.",
+          "en": "You can't judge a book by its cover"
+        },
+        "4": {
+          "tr": "Bir şeyi tamamen anlamayan insanlar tehlikelidir",
+          "en": "A little learning is a dangerous thing"
+        },
+        "5": {
+          "tr": "Çığ etkisi - cümle içinde kullanılır",
+          "en": "A snowball effect"
+        },
+        "6": {
+          "tr": "Sorunu büyütmeden halletmeli",
+          "en": "A stitch in time saves nine"
+        },
+        "7": {
+          "tr": "Fazla merak iyi değildir",
+          "en": "Curiosity killed the cat"
+        },
+        "8": {
+          "tr": "Alışkanlık bıkkınlık yaratır",
+          "en": "Familiarity breeds contempt"
+        },
+        "9": {
+          "tr": "Boşa kürek çekmek",
+          "en": "Don't beat a dead horse"
+        },
+        "10": {
+          "tr": "Herkesin şanslı bir günü vardır",
+          "en": "Every dog has his day"
+        },
+        "11": {
+          "tr": "Son gülen iyi güler",
+          "en": "He who laughs last laughs loudest"
+        },
+        "12": {
+          "tr": "Karar verememek",
+          "en": "Sitting on the fence"
+        },
+        "13": {
+          "tr": "Bir işi beceremiyorsan diğerlerini suçlama",
+          "en": "It is a poor workman who blames his tools"
+        },
+        "14": {
+          "tr": "Durumlar düzelecektir",
+          "en": "It is always darkest before the dawn"
+        },
+        "15": {
+          "tr": "Sadece bir kişi sorumlu değil. Her iki kişi de işin içinde.",
+          "en": "It takes two to tango"
+        },
+        "16": {
+          "en": "That ship has sailed",
+          "tr": "Artık çok geç"
+        },
+        "17": {
+          "tr": "Ufukta kara bulutların belirmesi",
+          "en": "There are clouds on the horizon"
+        },
+        "18": {
+          "tr": "Ahlaken şüphe oluşturan kişiler başkalarını eleştirmemelidir",
+          "en": "Those who live in glass houses shouldn't throw stones"
+        },
+        "19": {
+          "tr": "Aynı fikirdeyiz",
+          "en": "We see eye to eye"
+        },
+        "20": {
+          "tr": "Başlamak bitirmenin yarısıdır",
+          "en": "Well begun is half done"
+        },
+        "21": {
+          "tr": "Tatlı dil yılanı deliğinden çıkarır",
+          "en": "You can catch more flies with honey than you can with vinegar"
+        },
+        "22": {
+          "tr": "Zorla güzellik olmaz",
+          "en": "You can lead a horse to water, but you can't make him drink"
+        },
+        "23": {
+          "tr": "Bir şeyi yapmanın her zaman bir bedeli vardır",
+          "en": "You can't make an omelet without breaking some eggs"
+        },
+        "24": {
+          "tr": "Ölümden daha kötü olan bir kader",
+          "en": "A fate worse than death"
+        },
+        "25": {
+          "tr": "“Devede kulak” anlamına gelir.",
+          "en": "A drop in the ocean"
+        },
+        "26": {
+          "tr": "Gözümün bebeği anlamına gelir.",
+          "en": "Apple of my eye"
+        },
+        "27": {
+          "tr": "Göze göz, dişe diş.",
+          "en": "An eye for an eye, a tooth for a tooth"
+        },
+        "28": {
+          "tr": "Olaya Fransız kaldım cümlesinin İngilizce versiyonu.",
+          "en": "It is all Greek to me"
+        },
+        "29": {
+          "tr": "Takdiri ilahi, Allah’ın işi anlamına gelir.",
+          "en": "Act of God"
+        },
+        "30": {
+          "tr": "Bir taş atımlık mesafede yani çok yakın anlamına gelir.",
+          "en": "A stone’s throw"
+        },
+        "31": {
+          "tr": "Hayal alemi anlamına gelir. “Live in a fool’s paradise” şeklinde kullanılır.",
+          "en": "A fool’s paradise"
+        }
+      },
+      "3": {
+        "1": {
+          "tr": "At at oluncaya kadar sahibi mat olur",
+          "en": "Bringing up someone shall bring you great suffering"
+        },
+        "2": {
+          "tr": "İncir babadan, zeytin dededen",
+          "en": "One generation plants the trees under whose shade another takes its ease"
+        },
+        "3": {
+          "tr": "Emeğe saygı",
+          "en": "Respect for labour / work"
+        },
+        "4": {
+          "tr": "Ağlanacak haline gülmek",
+          "en": "Laugh at your misery"
+        },
+        "5": {
+          "tr": "Aba altından değnek/sopa göstermek",
+          "en": "Make a veiled threat"
+        },
+        "6": {
+          "tr": "Anlayana sivrisinek saz, anlamayana davul zurna az",
+          "en": "A word to the wise is enough"
+        },
+        "7": {
+          "tr": "Aynası iştir kişinin lafa bakılmaz",
+          "en": "Actions speak louder than words"
+        },
+        "8": {
+          "tr": "Çocuktan al haberi",
+          "en": "Little pitchers have big ears"
+        },
+        "9": {
+          "tr": "Bölmesini bilmeyen çarpmasını bilemez",
+          "en": "Those who do not know the nuts and bolts of the business are doomed to failure"
+        },
+        "10": {
+          "tr": "Bükemediğin eli öpmek",
+          "en": "If you can't beat 'em, join 'em"
+        },
+        "11": {
+          "tr": "Bir çuval inciri berbat etmek",
+          "en": "Upset the applecar"
+        },
+        "12": {
+          "tr": "Dünyanın çivisi çıkmış",
+          "en": "The world is out of joint. / The world has gone to the dogs."
+        },
+        "13": {
+          "tr": "Dediğim dedik, çaldığım düdük",
+          "en": "What I say goes!"
+        },
+        "14": {
+          "tr": "Gökyüzünde düğün var deseler kadınlar merdiven kurmaya kalkar",
+          "en": "Tell a woman there is a wedding in the sky and watch her look for a ladder in the blink of an eye"
+        },
+        "15": {
+          "tr": "Görmezden gelmek",
+          "en": "To pretend not to notice someone"
+        },
+        "16": {
+          "en": "Every cloud has a silver lining",
+          "tr": "Her işte bir hayır vardır"
+        },
+        "17": {
+          "tr": "Her yiğidin/babayiğidin harcı değil",
+          "en": "Not every man has the guts / the bottle to ..."
+        },
+        "18": {
+          "tr": "Kötü komşu insanı ev sahibi yapar - Ev alma, komşu al",
+          "en": "Don't buy the house, buy the neighborhood"
+        },
+        "19": {
+          "tr": "Lokma çiğnenmeden yutulmaz",
+          "en": "no pain no gain / easy come easy go"
+        },
+        "20": {
+          "tr": "Yumurtaları kırmadan omlet yapamazsın.",
+          "en": "You can’t make an omelette without breaking some eggs first."
+        },
+        "21": {
+          "tr": "İki yanlış bir doğru etmez.",
+          "en": "Two wrongs don’t make a right."
+        },
+        "22": {
+          "tr": "Kalem kılıçtan keskindir.",
+          "en": "The pen is mightier than the sword."
+        },
+        "23": {
+          "tr": "Şans cesur olandan yanadır.",
+          "en": "Fortune favors the bold."
+        },
+        "24": {
+          "tr": "Geç olsun güç olmasın.",
+          "en": "Better late than never."
+        },
+        "25": {
+          "tr": "İt ulur, birbirini bulur. Tencere yuvarlanmış, kapağını bulmuş.",
+          "en": "Birds of a feather flock together."
+        },
+        "26": {
+          "tr": "Dostlarını yakın, düşmanlarını daha yakın tut.",
+          "en": "Keep your friends close and your enemies closer."
+        },
+        "27": {
+          "tr": "Erken kalkan yol alır.",
+          "en": "The early bird catches the worm."
+        },
+        "28": {
+          "tr": "Adamın adı çıkacağına canı çıksın.",
+          "en": "Give a dog bad name and hang him."
+        },
+        "29": {
+          "tr": "Ak akçe kara gün içindir",
+          "en": "Save up something for a rainy day"
+        },
+        "30": {
+          "tr": "Yuvarlanan taş yosun tutmaz - İşleyen demir pas tutmaz",
+          "en": "A rolling stone gathers no moss"
+        },
+        "31": {
+          "tr": "Yalancının mumu yatsıya kadar yanar",
+          "en": "Cheats never prosper"
+        }
+      },
+      "4": {
+        "1": {
+          "tr": "Ya bu deveyi güdersin, ya bu diyardan gidersin",
+          "en": "Do as the Romans do when in Rome"
+        },
+        "2": {
+          "tr": "Sütten ağzı yanan yoğurdu üfleyerek yer",
+          "en": "Once burnt twice shy"
+        },
+        "3": {
+          "tr": "Son gülen iyi güler",
+          "en": "He that laughs last laughs best"
+        },
+        "4": {
+          "tr": "Tatlı söz yılanı deliğinden çıkarır",
+          "en": "Good words are worth much, and cost little"
+        },
+        "5": {
+          "tr": "Karga yavrusunu şahin görür",
+          "en": "All his geese are swans"
+        },
+        "6": {
+          "tr": "Körle yatan şaşı kalkar",
+          "en": "The rotten apple injures its neighbours"
+        },
+        "7": {
+          "tr": "Dereyi görmeden paçaları sıvama",
+          "en": "It's not over until the fat lady sings"
+        },
+        "8": {
+          "tr": "Bir sürü aşçı yemeği mahveder",
+          "en": "Too many cooks spoil the broth"
+        },
+        "9": {
+          "tr": "Atı suya götürebilirsin, ama ona suyu içiremezsin",
+          "en": "You can lead a horse to water, but you can’t make him drink"
+        },
+        "10": {
+          "tr": "O kadar zor değil",
+          "en": "It's not rocket science"
+        },
+        "11": {
+          "tr": "Artık çok geç",
+          "en": "Miss the boat"
+        },
+        "12": {
+          "tr": "Şu ana kadar herşey yolunda",
+          "en": "So far so good"
+        },
+        "13": {
+          "tr": "Sabrın tükenmesi",
+          "en": "That's the last straw"
+        },
+        "14": {
+          "tr": "İdeal bir durum",
+          "en": "The best of both worlds"
+        },
+        "15": {
+          "tr": "Eğlenirken zamanın nasıl geçtiğini farketmiyorsun",
+          "en": "Time flies when you're having fun"
+        },
+        "16": {
+          "en": "We'll cross that bridge when we come to it",
+          "tr": "Şu anda sorun hakkında konuşmayalım"
+        },
+        "17": {
+          "tr": "İnsanların söylediklerine değil yaptıklarına inan",
+          "en": "Actions speak louder than words"
+        },
+        "18": {
+          "tr": "Birbirine benzeyen insanlar genelde arkadaş olur (genellikle olumsuz bir şekilde kullanılır)",
+          "en": "Birds of a feather flock together"
+        },
+        "19": {
+          "tr": "İnsanlara karşı adil davranmak. 'Altın Kural' olarak da bilinir",
+          "en": "Do unto others as you would have them do unto you"
+        },
+        "20": {
+          "tr": "Düzeltilemeyecek bir için yakınmanın faydası yok.",
+          "en": "Don't cry over spilt milk"
+        },
+        "21": {
+          "tr": "Bu işte pek iyi değilsin",
+          "en": "Don't give up your day job"
+        },
+        "22": {
+          "tr": "Yaptığın şey çok riskli",
+          "en": "Don't put all your eggs in one basket"
+        },
+        "23": {
+          "tr": "Sabırlı ol - Bekleyen kişi iyi şeylere kavuşur.",
+          "en": "Good things come to those who wait"
+        },
+        "24": {
+          "tr": "Babasının aynısı",
+          "en": "He's a chip off the old block"
+        },
+        "25": {
+          "tr": "Cehalet mutluluktur",
+          "en": "Ignorance is bliss"
+        },
+        "26": {
+          "tr": "Bu iş henüz bitmedi",
+          "en": "It ain't over till the fat lady sings"
+        },
+        "27": {
+          "tr": "Kişi kendinden bilir işi",
+          "en": "It takes one to know one"
+        },
+        "28": {
+          "tr": "Yeşe ve öğren - hata yapıldığında kullanılır",
+          "en": "Live and learn"
+        },
+        "29": {
+          "tr": "Bir fırsatı kaçırmak sorun değil. Başka fırsatlar doğar.",
+          "en": "There are other fish in the sea"
+        },
+        "30": {
+          "tr": "Deli gibi görünüyor ama aslında akıllı",
+          "en": "There's a method to his madness"
+        }
+      },
+      "5": {
+        "1": {
+          "tr": "Hiçbir şey bedava değil",
+          "en": "There's no such thing as a free lunch"
+        },
+        "2": {
+          "tr": "Her şeyi elde edemezsin",
+          "en": "You can't have your cake and eat it too"
+        },
+        "3": {
+          "tr": "Bu kişi veya şey kötü gibi görünebilir ama aslında özünde iyi - Kitabı kapağına göre yargılama.",
+          "en": "You can't judge a book by its cover"
+        },
+        "4": {
+          "tr": "Bir şeyi tamamen anlamayan insanlar tehlikelidir",
+          "en": "A little learning is a dangerous thing"
+        },
+        "5": {
+          "tr": "Çığ etkisi - cümle içinde kullanılır",
+          "en": "A snowball effect"
+        },
+        "6": {
+          "tr": "Sorunu büyütmeden halletmeli",
+          "en": "A stitch in time saves nine"
+        },
+        "7": {
+          "tr": "Fazla merak iyi değildir",
+          "en": "Curiosity killed the cat"
+        },
+        "8": {
+          "tr": "Alışkanlık bıkkınlık yaratır",
+          "en": "Familiarity breeds contempt"
+        },
+        "9": {
+          "tr": "Boşa kürek çekmek",
+          "en": "Don't beat a dead horse"
+        },
+        "10": {
+          "tr": "Herkesin şanslı bir günü vardır",
+          "en": "Every dog has his day"
+        },
+        "11": {
+          "tr": "Son gülen iyi güler",
+          "en": "He who laughs last laughs loudest"
+        },
+        "12": {
+          "tr": "Karar verememek",
+          "en": "Sitting on the fence"
+        },
+        "13": {
+          "tr": "Bir işi beceremiyorsan diğerlerini suçlama",
+          "en": "It is a poor workman who blames his tools"
+        },
+        "14": {
+          "tr": "Durumlar düzelecektir",
+          "en": "It is always darkest before the dawn"
+        },
+        "15": {
+          "tr": "Sadece bir kişi sorumlu değil. Her iki kişi de işin içinde.",
+          "en": "It takes two to tango"
+        },
+        "16": {
+          "en": "That ship has sailed",
+          "tr": "Artık çok geç"
+        },
+        "17": {
+          "tr": "Ufukta kara bulutların belirmesi",
+          "en": "There are clouds on the horizon"
+        },
+        "18": {
+          "tr": "Ahlaken şüphe oluşturan kişiler başkalarını eleştirmemelidir",
+          "en": "Those who live in glass houses shouldn't throw stones"
+        },
+        "19": {
+          "tr": "Aynı fikirdeyiz",
+          "en": "We see eye to eye"
+        },
+        "20": {
+          "tr": "Başlamak bitirmenin yarısıdır",
+          "en": "Well begun is half done"
+        },
+        "21": {
+          "tr": "Tatlı dil yılanı deliğinden çıkarır",
+          "en": "You can catch more flies with honey than you can with vinegar"
+        },
+        "22": {
+          "tr": "Zorla güzellik olmaz",
+          "en": "You can lead a horse to water, but you can't make him drink"
+        },
+        "23": {
+          "tr": "Bir şeyi yapmanın her zaman bir bedeli vardır",
+          "en": "You can't make an omelet without breaking some eggs"
+        },
+        "24": {
+          "tr": "Ölümden daha kötü olan bir kader",
+          "en": "A fate worse than death"
+        },
+        "25": {
+          "tr": "“Devede kulak” anlamına gelir.",
+          "en": "A drop in the ocean"
+        },
+        "26": {
+          "tr": "Gözümün bebeği anlamına gelir.",
+          "en": "Apple of my eye"
+        },
+        "27": {
+          "tr": "Göze göz, dişe diş.",
+          "en": "An eye for an eye, a tooth for a tooth"
+        },
+        "28": {
+          "tr": "Olaya Fransız kaldım cümlesinin İngilizce versiyonu.",
+          "en": "It is all Greek to me"
+        },
+        "29": {
+          "tr": "Takdiri ilahi, Allah’ın işi anlamına gelir.",
+          "en": "Act of God"
+        },
+        "30": {
+          "tr": "Bir taş atımlık mesafede yani çok yakın anlamına gelir.",
+          "en": "A stone’s throw"
+        },
+        "31": {
+          "tr": "Hayal alemi anlamına gelir. “Live in a fool’s paradise” şeklinde kullanılır.",
+          "en": "A fool’s paradise"
+        }
+      },
+      "6": {
+        "1": {
+          "tr": "At at oluncaya kadar sahibi mat olur",
+          "en": "Bringing up someone shall bring you great suffering"
+        },
+        "2": {
+          "tr": "İncir babadan, zeytin dededen",
+          "en": "One generation plants the trees under whose shade another takes its ease"
+        },
+        "3": {
+          "tr": "Emeğe saygı",
+          "en": "Respect for labour / work"
+        },
+        "4": {
+          "tr": "Ağlanacak haline gülmek",
+          "en": "Laugh at your misery"
+        },
+        "5": {
+          "tr": "Aba altından değnek/sopa göstermek",
+          "en": "Make a veiled threat"
+        },
+        "6": {
+          "tr": "Anlayana sivrisinek saz, anlamayana davul zurna az",
+          "en": "A word to the wise is enough"
+        },
+        "7": {
+          "tr": "Aynası iştir kişinin lafa bakılmaz",
+          "en": "Actions speak louder than words"
+        },
+        "8": {
+          "tr": "Çocuktan al haberi",
+          "en": "Little pitchers have big ears"
+        },
+        "9": {
+          "tr": "Bölmesini bilmeyen çarpmasını bilemez",
+          "en": "Those who do not know the nuts and bolts of the business are doomed to failure"
+        },
+        "10": {
+          "tr": "Bükemediğin eli öpmek",
+          "en": "If you can't beat 'em, join 'em"
+        },
+        "11": {
+          "tr": "Bir çuval inciri berbat etmek",
+          "en": "Upset the applecar"
+        },
+        "12": {
+          "tr": "Dünyanın çivisi çıkmış",
+          "en": "The world is out of joint. / The world has gone to the dogs."
+        },
+        "13": {
+          "tr": "Dediğim dedik, çaldığım düdük",
+          "en": "What I say goes!"
+        },
+        "14": {
+          "tr": "Gökyüzünde düğün var deseler kadınlar merdiven kurmaya kalkar",
+          "en": "Tell a woman there is a wedding in the sky and watch her look for a ladder in the blink of an eye"
+        },
+        "15": {
+          "tr": "Görmezden gelmek",
+          "en": "To pretend not to notice someone"
+        },
+        "16": {
+          "en": "Every cloud has a silver lining",
+          "tr": "Her işte bir hayır vardır"
+        },
+        "17": {
+          "tr": "Her yiğidin/babayiğidin harcı değil",
+          "en": "Not every man has the guts / the bottle to ..."
+        },
+        "18": {
+          "tr": "Kötü komşu insanı ev sahibi yapar - Ev alma, komşu al",
+          "en": "Don't buy the house, buy the neighborhood"
+        },
+        "19": {
+          "tr": "Lokma çiğnenmeden yutulmaz",
+          "en": "no pain no gain / easy come easy go"
+        },
+        "20": {
+          "tr": "Yumurtaları kırmadan omlet yapamazsın.",
+          "en": "You can’t make an omelette without breaking some eggs first."
+        },
+        "21": {
+          "tr": "İki yanlış bir doğru etmez.",
+          "en": "Two wrongs don’t make a right."
+        },
+        "22": {
+          "tr": "Kalem kılıçtan keskindir.",
+          "en": "The pen is mightier than the sword."
+        },
+        "23": {
+          "tr": "Şans cesur olandan yanadır.",
+          "en": "Fortune favors the bold."
+        },
+        "24": {
+          "tr": "Geç olsun güç olmasın.",
+          "en": "Better late than never."
+        },
+        "25": {
+          "tr": "İt ulur, birbirini bulur. Tencere yuvarlanmış, kapağını bulmuş.",
+          "en": "Birds of a feather flock together."
+        },
+        "26": {
+          "tr": "Dostlarını yakın, düşmanlarını daha yakın tut.",
+          "en": "Keep your friends close and your enemies closer."
+        },
+        "27": {
+          "tr": "Erken kalkan yol alır.",
+          "en": "The early bird catches the worm."
+        },
+        "28": {
+          "tr": "Adamın adı çıkacağına canı çıksın.",
+          "en": "Give a dog bad name and hang him."
+        },
+        "29": {
+          "tr": "Ak akçe kara gün içindir",
+          "en": "Save up something for a rainy day"
+        },
+        "30": {
+          "tr": "Yuvarlanan taş yosun tutmaz - İşleyen demir pas tutmaz",
+          "en": "A rolling stone gathers no moss"
+        },
+        "31": {
+          "tr": "Yalancının mumu yatsıya kadar yanar",
+          "en": "Cheats never prosper"
+        }
+      },
+      "7": {
+        "1": {
+          "tr": "Ya bu deveyi güdersin, ya bu diyardan gidersin",
+          "en": "Do as the Romans do when in Rome"
+        },
+        "2": {
+          "tr": "Sütten ağzı yanan yoğurdu üfleyerek yer",
+          "en": "Once burnt twice shy"
+        },
+        "3": {
+          "tr": "Son gülen iyi güler",
+          "en": "He that laughs last laughs best"
+        },
+        "4": {
+          "tr": "Tatlı söz yılanı deliğinden çıkarır",
+          "en": "Good words are worth much, and cost little"
+        },
+        "5": {
+          "tr": "Karga yavrusunu şahin görür",
+          "en": "All his geese are swans"
+        },
+        "6": {
+          "tr": "Körle yatan şaşı kalkar",
+          "en": "The rotten apple injures its neighbours"
+        },
+        "7": {
+          "tr": "Dereyi görmeden paçaları sıvama",
+          "en": "It's not over until the fat lady sings"
+        },
+        "8": {
+          "tr": "Bir sürü aşçı yemeği mahveder",
+          "en": "Too many cooks spoil the broth"
+        },
+        "9": {
+          "tr": "Atı suya götürebilirsin, ama ona suyu içiremezsin",
+          "en": "You can lead a horse to water, but you can’t make him drink"
+        },
+        "10": {
+          "tr": "O kadar zor değil",
+          "en": "It's not rocket science"
+        },
+        "11": {
+          "tr": "Artık çok geç",
+          "en": "Miss the boat"
+        },
+        "12": {
+          "tr": "Şu ana kadar herşey yolunda",
+          "en": "So far so good"
+        },
+        "13": {
+          "tr": "Sabrın tükenmesi",
+          "en": "That's the last straw"
+        },
+        "14": {
+          "tr": "İdeal bir durum",
+          "en": "The best of both worlds"
+        },
+        "15": {
+          "tr": "Eğlenirken zamanın nasıl geçtiğini farketmiyorsun",
+          "en": "Time flies when you're having fun"
+        },
+        "16": {
+          "en": "We'll cross that bridge when we come to it",
+          "tr": "Şu anda sorun hakkında konuşmayalım"
+        },
+        "17": {
+          "tr": "İnsanların söylediklerine değil yaptıklarına inan",
+          "en": "Actions speak louder than words"
+        },
+        "18": {
+          "tr": "Birbirine benzeyen insanlar genelde arkadaş olur (genellikle olumsuz bir şekilde kullanılır)",
+          "en": "Birds of a feather flock together"
+        },
+        "19": {
+          "tr": "İnsanlara karşı adil davranmak. 'Altın Kural' olarak da bilinir",
+          "en": "Do unto others as you would have them do unto you"
+        },
+        "20": {
+          "tr": "Düzeltilemeyecek bir için yakınmanın faydası yok.",
+          "en": "Don't cry over spilt milk"
+        },
+        "21": {
+          "tr": "Bu işte pek iyi değilsin",
+          "en": "Don't give up your day job"
+        },
+        "22": {
+          "tr": "Yaptığın şey çok riskli",
+          "en": "Don't put all your eggs in one basket"
+        },
+        "23": {
+          "tr": "Sabırlı ol - Bekleyen kişi iyi şeylere kavuşur.",
+          "en": "Good things come to those who wait"
+        },
+        "24": {
+          "tr": "Babasının aynısı",
+          "en": "He's a chip off the old block"
+        },
+        "25": {
+          "tr": "Cehalet mutluluktur",
+          "en": "Ignorance is bliss"
+        },
+        "26": {
+          "tr": "Bu iş henüz bitmedi",
+          "en": "It ain't over till the fat lady sings"
+        },
+        "27": {
+          "tr": "Kişi kendinden bilir işi",
+          "en": "It takes one to know one"
+        },
+        "28": {
+          "tr": "Yeşe ve öğren - hata yapıldığında kullanılır",
+          "en": "Live and learn"
+        },
+        "29": {
+          "tr": "Bir fırsatı kaçırmak sorun değil. Başka fırsatlar doğar.",
+          "en": "There are other fish in the sea"
+        },
+        "30": {
+          "tr": "Deli gibi görünüyor ama aslında akıllı",
+          "en": "There's a method to his madness"
+        }
+      },
+      "8": {
+        "1": {
+          "tr": "Hiçbir şey bedava değil",
+          "en": "There's no such thing as a free lunch"
+        },
+        "2": {
+          "tr": "Her şeyi elde edemezsin",
+          "en": "You can't have your cake and eat it too"
+        },
+        "3": {
+          "tr": "Bu kişi veya şey kötü gibi görünebilir ama aslında özünde iyi - Kitabı kapağına göre yargılama.",
+          "en": "You can't judge a book by its cover"
+        },
+        "4": {
+          "tr": "Bir şeyi tamamen anlamayan insanlar tehlikelidir",
+          "en": "A little learning is a dangerous thing"
+        },
+        "5": {
+          "tr": "Çığ etkisi - cümle içinde kullanılır",
+          "en": "A snowball effect"
+        },
+        "6": {
+          "tr": "Sorunu büyütmeden halletmeli",
+          "en": "A stitch in time saves nine"
+        },
+        "7": {
+          "tr": "Fazla merak iyi değildir",
+          "en": "Curiosity killed the cat"
+        },
+        "8": {
+          "tr": "Alışkanlık bıkkınlık yaratır",
+          "en": "Familiarity breeds contempt"
+        },
+        "9": {
+          "tr": "Boşa kürek çekmek",
+          "en": "Don't beat a dead horse"
+        },
+        "10": {
+          "tr": "Herkesin şanslı bir günü vardır",
+          "en": "Every dog has his day"
+        },
+        "11": {
+          "tr": "Son gülen iyi güler",
+          "en": "He who laughs last laughs loudest"
+        },
+        "12": {
+          "tr": "Karar verememek",
+          "en": "Sitting on the fence"
+        },
+        "13": {
+          "tr": "Bir işi beceremiyorsan diğerlerini suçlama",
+          "en": "It is a poor workman who blames his tools"
+        },
+        "14": {
+          "tr": "Durumlar düzelecektir",
+          "en": "It is always darkest before the dawn"
+        },
+        "15": {
+          "tr": "Sadece bir kişi sorumlu değil. Her iki kişi de işin içinde.",
+          "en": "It takes two to tango"
+        },
+        "16": {
+          "en": "That ship has sailed",
+          "tr": "Artık çok geç"
+        },
+        "17": {
+          "tr": "Ufukta kara bulutların belirmesi",
+          "en": "There are clouds on the horizon"
+        },
+        "18": {
+          "tr": "Ahlaken şüphe oluşturan kişiler başkalarını eleştirmemelidir",
+          "en": "Those who live in glass houses shouldn't throw stones"
+        },
+        "19": {
+          "tr": "Aynı fikirdeyiz",
+          "en": "We see eye to eye"
+        },
+        "20": {
+          "tr": "Başlamak bitirmenin yarısıdır",
+          "en": "Well begun is half done"
+        },
+        "21": {
+          "tr": "Tatlı dil yılanı deliğinden çıkarır",
+          "en": "You can catch more flies with honey than you can with vinegar"
+        },
+        "22": {
+          "tr": "Zorla güzellik olmaz",
+          "en": "You can lead a horse to water, but you can't make him drink"
+        },
+        "23": {
+          "tr": "Bir şeyi yapmanın her zaman bir bedeli vardır",
+          "en": "You can't make an omelet without breaking some eggs"
+        },
+        "24": {
+          "tr": "Ölümden daha kötü olan bir kader",
+          "en": "A fate worse than death"
+        },
+        "25": {
+          "tr": "“Devede kulak” anlamına gelir.",
+          "en": "A drop in the ocean"
+        },
+        "26": {
+          "tr": "Gözümün bebeği anlamına gelir.",
+          "en": "Apple of my eye"
+        },
+        "27": {
+          "tr": "Göze göz, dişe diş.",
+          "en": "An eye for an eye, a tooth for a tooth"
+        },
+        "28": {
+          "tr": "Olaya Fransız kaldım cümlesinin İngilizce versiyonu.",
+          "en": "It is all Greek to me"
+        },
+        "29": {
+          "tr": "Takdiri ilahi, Allah’ın işi anlamına gelir.",
+          "en": "Act of God"
+        },
+        "30": {
+          "tr": "Bir taş atımlık mesafede yani çok yakın anlamına gelir.",
+          "en": "A stone’s throw"
+        },
+        "31": {
+          "tr": "Hayal alemi anlamına gelir. “Live in a fool’s paradise” şeklinde kullanılır.",
+          "en": "A fool’s paradise"
+        }
+      },
+      "9": {
+        "1": {
+          "tr": "At at oluncaya kadar sahibi mat olur",
+          "en": "Bringing up someone shall bring you great suffering"
+        },
+        "2": {
+          "tr": "İncir babadan, zeytin dededen",
+          "en": "One generation plants the trees under whose shade another takes its ease"
+        },
+        "3": {
+          "tr": "Emeğe saygı",
+          "en": "Respect for labour / work"
+        },
+        "4": {
+          "tr": "Ağlanacak haline gülmek",
+          "en": "Laugh at your misery"
+        },
+        "5": {
+          "tr": "Aba altından değnek/sopa göstermek",
+          "en": "Make a veiled threat"
+        },
+        "6": {
+          "tr": "Anlayana sivrisinek saz, anlamayana davul zurna az",
+          "en": "A word to the wise is enough"
+        },
+        "7": {
+          "tr": "Aynası iştir kişinin lafa bakılmaz",
+          "en": "Actions speak louder than words"
+        },
+        "8": {
+          "tr": "Çocuktan al haberi",
+          "en": "Little pitchers have big ears"
+        },
+        "9": {
+          "tr": "Bölmesini bilmeyen çarpmasını bilemez",
+          "en": "Those who do not know the nuts and bolts of the business are doomed to failure"
+        },
+        "10": {
+          "tr": "Bükemediğin eli öpmek",
+          "en": "If you can't beat 'em, join 'em"
+        },
+        "11": {
+          "tr": "Bir çuval inciri berbat etmek",
+          "en": "Upset the applecar"
+        },
+        "12": {
+          "tr": "Dünyanın çivisi çıkmış",
+          "en": "The world is out of joint. / The world has gone to the dogs."
+        },
+        "13": {
+          "tr": "Dediğim dedik, çaldığım düdük",
+          "en": "What I say goes!"
+        },
+        "14": {
+          "tr": "Gökyüzünde düğün var deseler kadınlar merdiven kurmaya kalkar",
+          "en": "Tell a woman there is a wedding in the sky and watch her look for a ladder in the blink of an eye"
+        },
+        "15": {
+          "tr": "Görmezden gelmek",
+          "en": "To pretend not to notice someone"
+        },
+        "16": {
+          "en": "Every cloud has a silver lining",
+          "tr": "Her işte bir hayır vardır"
+        },
+        "17": {
+          "tr": "Her yiğidin/babayiğidin harcı değil",
+          "en": "Not every man has the guts / the bottle to ..."
+        },
+        "18": {
+          "tr": "Kötü komşu insanı ev sahibi yapar - Ev alma, komşu al",
+          "en": "Don't buy the house, buy the neighborhood"
+        },
+        "19": {
+          "tr": "Lokma çiğnenmeden yutulmaz",
+          "en": "no pain no gain / easy come easy go"
+        },
+        "20": {
+          "tr": "Yumurtaları kırmadan omlet yapamazsın.",
+          "en": "You can’t make an omelette without breaking some eggs first."
+        },
+        "21": {
+          "tr": "İki yanlış bir doğru etmez.",
+          "en": "Two wrongs don’t make a right."
+        },
+        "22": {
+          "tr": "Kalem kılıçtan keskindir.",
+          "en": "The pen is mightier than the sword."
+        },
+        "23": {
+          "tr": "Şans cesur olandan yanadır.",
+          "en": "Fortune favors the bold."
+        },
+        "24": {
+          "tr": "Geç olsun güç olmasın.",
+          "en": "Better late than never."
+        },
+        "25": {
+          "tr": "İt ulur, birbirini bulur. Tencere yuvarlanmış, kapağını bulmuş.",
+          "en": "Birds of a feather flock together."
+        },
+        "26": {
+          "tr": "Dostlarını yakın, düşmanlarını daha yakın tut.",
+          "en": "Keep your friends close and your enemies closer."
+        },
+        "27": {
+          "tr": "Erken kalkan yol alır.",
+          "en": "The early bird catches the worm."
+        },
+        "28": {
+          "tr": "Adamın adı çıkacağına canı çıksın.",
+          "en": "Give a dog bad name and hang him."
+        },
+        "29": {
+          "tr": "Ak akçe kara gün içindir",
+          "en": "Save up something for a rainy day"
+        },
+        "30": {
+          "tr": "Yuvarlanan taş yosun tutmaz - İşleyen demir pas tutmaz",
+          "en": "A rolling stone gathers no moss"
+        },
+        "31": {
+          "tr": "Yalancının mumu yatsıya kadar yanar",
+          "en": "Cheats never prosper"
+        }
+      },
+      "10": {
+        "1": {
+          "tr": "Ya bu deveyi güdersin, ya bu diyardan gidersin",
+          "en": "Do as the Romans do when in Rome"
+        },
+        "2": {
+          "tr": "Sütten ağzı yanan yoğurdu üfleyerek yer",
+          "en": "Once burnt twice shy"
+        },
+        "3": {
+          "tr": "Son gülen iyi güler",
+          "en": "He that laughs last laughs best"
+        },
+        "4": {
+          "tr": "Tatlı söz yılanı deliğinden çıkarır",
+          "en": "Good words are worth much, and cost little"
+        },
+        "5": {
+          "tr": "Karga yavrusunu şahin görür",
+          "en": "All his geese are swans"
+        },
+        "6": {
+          "tr": "Körle yatan şaşı kalkar",
+          "en": "The rotten apple injures its neighbours"
+        },
+        "7": {
+          "tr": "Dereyi görmeden paçaları sıvama",
+          "en": "It's not over until the fat lady sings"
+        },
+        "8": {
+          "tr": "Bir sürü aşçı yemeği mahveder",
+          "en": "Too many cooks spoil the broth"
+        },
+        "9": {
+          "tr": "Atı suya götürebilirsin, ama ona suyu içiremezsin",
+          "en": "You can lead a horse to water, but you can’t make him drink"
+        },
+        "10": {
+          "tr": "O kadar zor değil",
+          "en": "It's not rocket science"
+        },
+        "11": {
+          "tr": "Artık çok geç",
+          "en": "Miss the boat"
+        },
+        "12": {
+          "tr": "Şu ana kadar herşey yolunda",
+          "en": "So far so good"
+        },
+        "13": {
+          "tr": "Sabrın tükenmesi",
+          "en": "That's the last straw"
+        },
+        "14": {
+          "tr": "İdeal bir durum",
+          "en": "The best of both worlds"
+        },
+        "15": {
+          "tr": "Eğlenirken zamanın nasıl geçtiğini farketmiyorsun",
+          "en": "Time flies when you're having fun"
+        },
+        "16": {
+          "en": "We'll cross that bridge when we come to it",
+          "tr": "Şu anda sorun hakkında konuşmayalım"
+        },
+        "17": {
+          "tr": "İnsanların söylediklerine değil yaptıklarına inan",
+          "en": "Actions speak louder than words"
+        },
+        "18": {
+          "tr": "Birbirine benzeyen insanlar genelde arkadaş olur (genellikle olumsuz bir şekilde kullanılır)",
+          "en": "Birds of a feather flock together"
+        },
+        "19": {
+          "tr": "İnsanlara karşı adil davranmak. 'Altın Kural' olarak da bilinir",
+          "en": "Do unto others as you would have them do unto you"
+        },
+        "20": {
+          "tr": "Düzeltilemeyecek bir için yakınmanın faydası yok.",
+          "en": "Don't cry over spilt milk"
+        },
+        "21": {
+          "tr": "Bu işte pek iyi değilsin",
+          "en": "Don't give up your day job"
+        },
+        "22": {
+          "tr": "Yaptığın şey çok riskli",
+          "en": "Don't put all your eggs in one basket"
+        },
+        "23": {
+          "tr": "Sabırlı ol - Bekleyen kişi iyi şeylere kavuşur.",
+          "en": "Good things come to those who wait"
+        },
+        "24": {
+          "tr": "Babasının aynısı",
+          "en": "He's a chip off the old block"
+        },
+        "25": {
+          "tr": "Cehalet mutluluktur",
+          "en": "Ignorance is bliss"
+        },
+        "26": {
+          "tr": "Bu iş henüz bitmedi",
+          "en": "It ain't over till the fat lady sings"
+        },
+        "27": {
+          "tr": "Kişi kendinden bilir işi",
+          "en": "It takes one to know one"
+        },
+        "28": {
+          "tr": "Yeşe ve öğren - hata yapıldığında kullanılır",
+          "en": "Live and learn"
+        },
+        "29": {
+          "tr": "Bir fırsatı kaçırmak sorun değil. Başka fırsatlar doğar.",
+          "en": "There are other fish in the sea"
+        },
+        "30": {
+          "tr": "Deli gibi görünüyor ama aslında akıllı",
+          "en": "There's a method to his madness"
+        }
+      },
+      "11": {
+        "1": {
+          "tr": "Hiçbir şey bedava değil",
+          "en": "There's no such thing as a free lunch"
+        },
+        "2": {
+          "tr": "Her şeyi elde edemezsin",
+          "en": "You can't have your cake and eat it too"
+        },
+        "3": {
+          "tr": "Bu kişi veya şey kötü gibi görünebilir ama aslında özünde iyi - Kitabı kapağına göre yargılama.",
+          "en": "You can't judge a book by its cover"
+        },
+        "4": {
+          "tr": "Bir şeyi tamamen anlamayan insanlar tehlikelidir",
+          "en": "A little learning is a dangerous thing"
+        },
+        "5": {
+          "tr": "Çığ etkisi - cümle içinde kullanılır",
+          "en": "A snowball effect"
+        },
+        "6": {
+          "tr": "Sorunu büyütmeden halletmeli",
+          "en": "A stitch in time saves nine"
+        },
+        "7": {
+          "tr": "Fazla merak iyi değildir",
+          "en": "Curiosity killed the cat"
+        },
+        "8": {
+          "tr": "Alışkanlık bıkkınlık yaratır",
+          "en": "Familiarity breeds contempt"
+        },
+        "9": {
+          "tr": "Boşa kürek çekmek",
+          "en": "Don't beat a dead horse"
+        },
+        "10": {
+          "tr": "Herkesin şanslı bir günü vardır",
+          "en": "Every dog has his day"
+        },
+        "11": {
+          "tr": "Son gülen iyi güler",
+          "en": "He who laughs last laughs loudest"
+        },
+        "12": {
+          "tr": "Karar verememek",
+          "en": "Sitting on the fence"
+        },
+        "13": {
+          "tr": "Bir işi beceremiyorsan diğerlerini suçlama",
+          "en": "It is a poor workman who blames his tools"
+        },
+        "14": {
+          "tr": "Durumlar düzelecektir",
+          "en": "It is always darkest before the dawn"
+        },
+        "15": {
+          "tr": "Sadece bir kişi sorumlu değil. Her iki kişi de işin içinde.",
+          "en": "It takes two to tango"
+        },
+        "16": {
+          "en": "That ship has sailed",
+          "tr": "Artık çok geç"
+        },
+        "17": {
+          "tr": "Ufukta kara bulutların belirmesi",
+          "en": "There are clouds on the horizon"
+        },
+        "18": {
+          "tr": "Ahlaken şüphe oluşturan kişiler başkalarını eleştirmemelidir",
+          "en": "Those who live in glass houses shouldn't throw stones"
+        },
+        "19": {
+          "tr": "Aynı fikirdeyiz",
+          "en": "We see eye to eye"
+        },
+        "20": {
+          "tr": "Başlamak bitirmenin yarısıdır",
+          "en": "Well begun is half done"
+        },
+        "21": {
+          "tr": "Tatlı dil yılanı deliğinden çıkarır",
+          "en": "You can catch more flies with honey than you can with vinegar"
+        },
+        "22": {
+          "tr": "Zorla güzellik olmaz",
+          "en": "You can lead a horse to water, but you can't make him drink"
+        },
+        "23": {
+          "tr": "Bir şeyi yapmanın her zaman bir bedeli vardır",
+          "en": "You can't make an omelet without breaking some eggs"
+        },
+        "24": {
+          "tr": "Ölümden daha kötü olan bir kader",
+          "en": "A fate worse than death"
+        },
+        "25": {
+          "tr": "“Devede kulak” anlamına gelir.",
+          "en": "A drop in the ocean"
+        },
+        "26": {
+          "tr": "Gözümün bebeği anlamına gelir.",
+          "en": "Apple of my eye"
+        },
+        "27": {
+          "tr": "Göze göz, dişe diş.",
+          "en": "An eye for an eye, a tooth for a tooth"
+        },
+        "28": {
+          "tr": "Olaya Fransız kaldım cümlesinin İngilizce versiyonu.",
+          "en": "It is all Greek to me"
+        },
+        "29": {
+          "tr": "Takdiri ilahi, Allah’ın işi anlamına gelir.",
+          "en": "Act of God"
+        },
+        "30": {
+          "tr": "Bir taş atımlık mesafede yani çok yakın anlamına gelir.",
+          "en": "A stone’s throw"
+        },
+        "31": {
+          "tr": "Hayal alemi anlamına gelir. “Live in a fool’s paradise” şeklinde kullanılır.",
+          "en": "A fool’s paradise"
+        }
+      }
+    }
+}

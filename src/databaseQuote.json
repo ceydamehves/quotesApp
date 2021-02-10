@@ -1,0 +1,1522 @@
+{
+    "months": {
+      "0": {
+        "1": {
+          "tr": "(çetin ceviz) uğraşılması zor kişi için kullanılır.",
+          "en": "A hard nut to crack"
+        },
+        "2": {
+          "tr": "(mükemmel fırtına) olabilecek en kötü durum anlamında kullanılır.",
+          "en": "A perfect storm"
+        },
+        "3": {
+          "tr": "(çocuk oyuncağı) ‘kolay lokma’ bir işin basit olduğunu ifade eder.",
+          "en": "A piece of cake"
+        },
+        "4": {
+          "tr": "(küçük bir sorunu abartmak, büyütmek) ‘bir çay bardağında fırtına’ Türkçede ‘bir bardak suda fırtına koparmak’ olarak kullanılır.",
+          "en": "A storm in a teacup"
+        },
+        "5": {
+          "tr": "(lafla peynir gemisi yürümez) ‘eylemler, sözden daha yüksek sesle konuşur",
+          "en": "Actions speak louder than words"
+        },
+        "6": {
+          "tr": "(buz gibi soğuk) ‘taş kadar soğuk",
+          "en": "As cold as stone"
+        },
+        "7": {
+          "tr": "(tamamen doğru, haklı) ‘yağmur gibi gerçek",
+          "en": "As right as rain"
+        },
+        "8": {
+          "tr": "(çözüm için yanlış yere bakmak) ‘yanlış ağaca havlamak’ çareyi yanlış yerlerde aramayı ifade eder.",
+          "en": "Barking up the wrong tree"
+        },
+        "9": {
+          "tr": "(geç olsun güç olmasın) ‘Asla olmamasındansa geç olması iyidir’ anlamındadır.",
+          "en": "Better late than never"
+        },
+        "10": {
+          "tr": "(iki arada bir derede kalmak) ikilemde kalma durumu.",
+          "en": "Between a rock and a hard place"
+        },
+        "11": {
+          "tr": "(ağzında gümüş kaşıkla doğmak) doğuştan zengin, varlıklı, şanslı olmak.",
+          "en": "Born with a silver spoon in one’s mouth"
+        },
+        "12": {
+          "tr": "(el yakmak) ‘banka kırmak’ bir şeyin çok pahalı olması.",
+          "en": "Break the bank"
+        },
+        "13": {
+          "tr": "(havayı yumuşatmak) ‘buzları kırmak, yok etmek’ anlamındadır. İlk defa karşılaşan iki insanın arasındaki gerginliği azaltmak ve birbirlerine yakın hissetmeleri için kullanılır.",
+          "en": "Break the ice"
+        },
+        "14": {
+          "tr": "(köprüleri yıkmak) ‘iki kişi arasındaki bağın kopması",
+          "en": "Burn bridges"
+        },
+        "15": {
+          "tr": "(fırtına öncesi sessizlik)",
+          "en": "Calm before the storm"
+        },
+        "16": {
+          "en": "Chasing rainbows",
+          "tr": "(hayal peşinde koşmak) ‘gökkuşağı kovalamak’ olmayacak işleri kovalamak, gerçekleşmesi zor olaylar için uğraşmak."
+        },
+        "17": {
+          "tr": "(ne olursa olsun) ‘yağmurda yağsa, güneş de açsa",
+          "en": "Come rain or come shine"
+        },
+        "18": {
+          "tr": "(karşılaştırması doğru olmayan iki şeyin kıyaslanması) ‘elmalarla portakalların karışması",
+          "en": "Comparing apples to oranges"
+        },
+        "19": {
+          "tr": "(sakin ve soğukkanlı olmak) tek tek çevirdiğinizde bir salatalık kadar serin anlamına gelir:D",
+          "en": "Cool as a cucumber"
+        },
+        "20": {
+          "tr": "(pahalıya mal olmak) ‘bir kol ve bir bacağa mal oldu",
+          "en": "Costs an arm and a leg"
+        },
+        "21": {
+          "tr": "(iyi iş çıkarmak) ‘hardalı kesmek",
+          "en": "Cut the mustard"
+        },
+        "22": {
+          "tr": "(sadede gelmek) konuşmayı kısa kesmek, asıl anlatılmak isteneni bir an önce anlatmak.",
+          "en": "Cut to the chase"
+        },
+        "23": {
+          "tr": "(boşa kürek çekmek) ‘ölü bir atı yenme!",
+          "en": "Don’t beat a dead horse"
+        },
+        "24": {
+          "tr": "(kuş kadar yemek) kuş gibi az yemek anlamındadır.",
+          "en": "Eat like a bird"
+        },
+        "25": {
+          "tr": "(gün gibi ortada) ‘odadaki fil’ olarak tercüme edilse de, ‘görmezden gelinip hakkında konuşulmayan aşikar bir sorun’ anlamına gelir. Herkesin bildiği ama kimsenin konuşmadığı görmezden gelinen bir konu için kullanılır.",
+          "en": "Elephant in the room"
+        },
+        "26": {
+          "tr": "(her işte bir hayır vardır) ‘her bulutun gümüş bir kaplaması vardır",
+          "en": "Every cloud has a silver lining"
+        },
+        "27": {
+          "tr": "(sağlam, sağlıklı olmak) ‘turp gibi formda",
+          "en": "Fit as a fiddle"
+        },
+        "28": {
+          "tr": "(soluklanmak) ‘ikinci bir rüzgar almak",
+          "en": "Get a second wind"
+        },
+        "29": {
+          "tr": "(kök söktürmek) iyi mücadele etmek, kazanmak için elinden gelenin en iyisini yapmak.",
+          "en": "Give a run for one’s money"
+        },
+        "30": {
+          "tr": "(birini önemsememek) ‘birine soğuk omuz vermek",
+          "en": "Give someone the cold shoulder"
+        },
+        "31": {
+          "tr": "(olayları akışına bırakmak)",
+          "en": "Go with the flow"
+        }
+        
+      },
+      "1": {
+        "1": {
+          "tr": "(dişini sıkmak) vazgeçmemek",
+          "en": "Hang in there"
+        },
+        "2": {
+          "tr": "(acele işe şeytan karışır) çevrimi ‘acele ziyan yapar'dır.",
+          "en": "Haste makes waste"
+        },
+        "3": {
+          "tr": "(fil hafızasına sahip olmak) kolay kolay unutmayandır.",
+          "en": "Have a memory like an elephant"
+        },
+        "4": {
+          "tr": "(eli uzun olmak) çalmak, hırsızlık yapmak.",
+          "en": "Have sticky fingers"
+        },
+        "5": {
+          "tr": "(ineklemek) ‘kitaplara vurmak’ diye çevrilen çok çalışmak anlamında bir sözdür.",
+          "en": "Hit the books"
+        },
+        "6": {
+          "tr": "(tepesi atmak) tercümesi, ‘çatıya çarpmak’ olan sinirden tepesi atmak, çok kızmak anlamında kullanılan söz.",
+          "en": "Hit the roof"
+        },
+        "7": {
+          "tr": "(kafayı vurup yatmak) ‘bir çuvala vurmak’ olarak tercüme edilir, kafayı vurup yatmak ve uyumak manasındadır.",
+          "en": "Hit the sack"
+        },
+        "8": {
+          "tr": "(küplere binmek) çok sinirlenmek.",
+          "en": "Hot under the collar"
+        },
+        "9": {
+          "tr": "(borca girmek) borç içinde olmak.",
+          "en": "In the red"
+        },
+        "10": {
+          "tr": "(aranmadık yer bırakmamak) her taşın altına bakmak anlamına gelir.",
+          "en": "Leave no stone unturned"
+        },
+        "11": {
+          "tr": "(bir sırrı ortaya çıkarmak) ‘çantadaki kediyi salmak",
+          "en": "Let the cat out of the bag"
+        },
+        "12": {
+          "tr": "(ayrılmaz, sürekli yanyana olmak) ‘bir kapsüldeki iki bezelye’ olarak çevrilir, Türkçede ‘bir elmanın iki yarısı’ manasına gelir.",
+          "en": "Like two peas in a pod"
+        },
+        "13": {
+          "tr": "(ucu ucuna geçinmek) çok para olmadan, kıtı kıtına geçinme hâli.",
+          "en": "Living hand to mouth"
+        },
+        "14": {
+          "tr": "(harika görünmek) ‘bir milyon gibi görünmek.",
+          "en": "Look like a million"
+        },
+        "15": {
+          "tr": "(eskisi kadar iyi olmamak) ‘kontağı kaybetmek",
+          "en": "Lose your touch"
+        },
+        "16": {
+          "en": "Make a mountain out of a molehill",
+          "tr": "(pireyi deve yapmak) bir şeyi abartmak, büyütmek."
+        },
+        "17": {
+          "tr": "(kıt kanaat geçinmek) sadece temel ihtiyaçları karşılayabilme hâli. ‘sonları buluşturmak",
+          "en": "Make ends meet"
+        },
+        "18": {
+          "tr": "(başa baş gitmek) aynı düzeyde olmak.",
+          "en": "Neck and neck"
+        },
+        "19": {
+          "tr": "(modası geçmiş)",
+          "en": "Old hat."
+        },
+        "20": {
+          "tr": "(mutluluğun doruklarında) çok sevinçli olmak",
+          "en": "On cloud nine"
+        },
+        "21": {
+          "tr": "(hazırlıklı olmak, işini bilmek) ‘topun üzerinde olmak",
+          "en": "On the ball"
+        },
+        "22": {
+          "tr": "(kötü bir olayın olmak üzere olması) ‘ince buz üstünde’",
+          "en": "On thin ice"
+        },
+        "23": {
+          "tr": "(ayda yılda bir) ‘her mavi ay olduğunda’ bir şeyin çok nadir gerçekleştiğini anlatırken.",
+          "en": "Once in a blue moon"
+        },
+        "24": {
+          "tr": "(birini işletmek, kandırmak) şaka yoluyla birini kandırmak.",
+          "en": "Pull someone’s leg"
+        },
+        "25": {
+          "tr": "birini istemeden utandırmak",
+          "en": "Put one’s foot in it"
+        },
+        "26": {
+          "tr": "(bardaktan boşanırcasına yağmur yağması) ‘kedi köpek yağıyor’ yağmurun şiddetini anlatırken kullanılır.",
+          "en": "Raining cats and dogs"
+        },
+        "27": {
+          "tr": "(bir şeyler çağrıştırmak) ‘zil çalmak’ bir yerden anımsamak anlamındadır.",
+          "en": "Ring a bell"
+        },
+        "28": {
+          "tr": "(kötü günler için birikim yapmak)",
+          "en": "Saving for a rainy day"
+        },
+        "29": {
+          "tr": "(tereciye tere satmak) ‘Eskimo’ya buz satmak’",
+          "en": "Sell ice to Eskimos"
+        },
+        "30": {
+          "tr": "(daha iyisini yap ya da git) Türkçede ‘ya bu deveyi güdersin ya bu diyardan gidersin’ olarak kullanılır.",
+          "en": "Shape up or ship out"
+        }
+        
+      },
+        
+      
+      "2": {
+        "1": {
+          "tr": "(iti an çomağı hazırla) çevrimi ‘şeytanın konuşması’ olan, sevilmeyen birinin bahsi geçerken konuşmanın üzerine gelmesi durumu.",
+          "en": "Speak of the devil"
+        },
+        "2": {
+          "tr": "(baklayı ağzından çıkarmak) ‘sırları anlatmak’",
+          "en": "Spill the beans"
+        },
+        "3": {
+          "tr": "(birini sırtından bıçaklamak) birinin güvenini kaybetmek, ona ihanet etmek.",
+          "en": "Stab someone in the back"
+        },
+        "4": {
+          "tr": "(konuşkan olmak)",
+          "en": "Talk like a blue streak"
+        },
+        "5": {
+          "tr": "(eli sıkı olmak) cimri olmak.",
+          "en": "To be closefisted"
+        },
+        "6": {
+          "tr": "(ağzından girip burnundan çıkmak) kelime anlamı, ‘birinin kolunu ters çevirmek’ dir. Ancak bir kişiyi ne yapıp edip ikna etmek manasına gelir.",
+          "en": "Twist someone’s arm"
+        },
+        "7": {
+          "tr": "(askıda kalmak, havada kalmak) bir şeyin belirsiz oluşu.",
+          "en": "Up in the air"
+        },
+        "8": {
+          "tr": "(badire atlatmak) zorlukların üstesinden gelmek, hakkından gelmek.",
+          "en": "Weather a storm"
+        },
+        "9": {
+          "tr": "(aksilikler üst üste gelir) Birden fazla kötü olayın arka arkaya gelmesi durumu. “Yağmur yağdığında dökülür” anlamına gelir.",
+          "en": "When it rains, it pours"
+        },
+        "10": {
+          "tr": "Çevirisi ‘domuzlar uçtuğunda’ olan, bir olayın gerçekleşmesinin ne kadar imkânsız olduğundan bahsetmek için kullanılan kalıp.",
+          "en": "When pigs fly"
+        },
+        "11": {
+          "tr": "(tıkır tıkır çalışmak)",
+          "en": "Work like a charm"
+        },
+        "12": {
+          "tr": "(at gibi çalışmak) çok çalışmak, Türkçede ‘eşek gibi’ ile aynı anlamdadır.",
+          "en": "Work like a horse"
+        },
+        "13": {
+          "tr": "Haydan gelen huya gider",
+          "en": "Easy come, easy go"
+        },
+        "14": {
+          "tr": "Elçiye zeval olmaz",
+          "en": "Don't shoot the messenger"
+        },
+        "15": {
+          "tr": "Ortam çok gergin",
+          "en": "You can cut the atmosphere with a knife"
+        },
+        "16": {
+          "en": "Bi şansını dene",
+          "tr": "Give it a go / give it a shot"
+        },
+        "17": {
+          "tr": "Tam üstüne bastın",
+          "en": "You hit the nail on the head "
+        },
+        "18": {
+          "tr": "Su uyur düşman uyumaz - Düşmanını yakın tut",
+          "en": "Keep your enemy at bay"
+        },
+        "19": {
+          "tr": "Söylesem tesiri yok, sussam gönül razı değil",
+          "en": "Damned if I say, damned if I don't"
+        },
+        "20": {
+          "tr": "içince b.kunu çıkarıyorsun",
+          "en": "you go overboard while drinking"
+        },
+        "21": {
+          "tr": "Aklımdan çıkıvermiş",
+          "en": "It slipped my mind "
+        },
+        "22": {
+          "tr": "Geveleyip durma, lafı dolandırma",
+          "en": "Stop beating about the bush "
+        },
+        "23": {
+          "tr": "Ankara'yı avucumun içi gibi bilirim",
+          "en": "I know Ankara like the back of my hand"
+        },
+        "24": {
+          "tr": "Şu an aklıma gelmedi",
+          "en": "I don't know off the top of my head"
+        },
+        "25": {
+          "tr": "Çıkar ağzındaki baklayı",
+          "en": "Spill the beans"
+        },
+        "26": {
+          "tr": "Ciğerini bilirim",
+          "en": "I know.. inside out. "
+        },
+        "27": {
+          "tr": "Kolay lokma, çocuk oyuncağı",
+          "en": "Piece of cake"
+        },
+        "28": {
+          "tr": "Aynı bisiklet sürmek gibi, bir kez öğrenildiğinde unutulmayacak olan şey",
+          "en": "Like riding a bicycle"
+        },
+        "29": {
+          "tr": "Boşa hayal kovalamak",
+          "en": "Chasing rainbows"
+        },
+        "30": {
+          "tr": "Tek taşla iki kuş vurmak",
+          "en": "Kill two birds with one stone"
+        },      
+        "31": {
+          "tr": "Top sende, karar sana ait",
+          "en": "The ball is in your court"
+        }
+        
+      },
+      "3": {
+        "1": {
+          "tr": "(çetin ceviz) uğraşılması zor kişi için kullanılır.",
+          "en": "A hard nut to crack"
+        },
+        "2": {
+          "tr": "(mükemmel fırtına) olabilecek en kötü durum anlamında kullanılır.",
+          "en": "A perfect storm"
+        },
+        "3": {
+          "tr": "(çocuk oyuncağı) ‘kolay lokma’ bir işin basit olduğunu ifade eder.",
+          "en": "A piece of cake"
+        },
+        "4": {
+          "tr": "(küçük bir sorunu abartmak, büyütmek) ‘bir çay bardağında fırtına’ Türkçede ‘bir bardak suda fırtına koparmak’ olarak kullanılır.",
+          "en": "A storm in a teacup"
+        },
+        "5": {
+          "tr": "(lafla peynir gemisi yürümez) ‘eylemler, sözden daha yüksek sesle konuşur",
+          "en": "Actions speak louder than words"
+        },
+        "6": {
+          "tr": "(buz gibi soğuk) ‘taş kadar soğuk",
+          "en": "As cold as stone"
+        },
+        "7": {
+          "tr": "(tamamen doğru, haklı) ‘yağmur gibi gerçek",
+          "en": "As right as rain"
+        },
+        "8": {
+          "tr": "(çözüm için yanlış yere bakmak) ‘yanlış ağaca havlamak’ çareyi yanlış yerlerde aramayı ifade eder.",
+          "en": "Barking up the wrong tree"
+        },
+        "9": {
+          "tr": "(geç olsun güç olmasın) ‘Asla olmamasındansa geç olması iyidir’ anlamındadır.",
+          "en": "Better late than never"
+        },
+        "10": {
+          "tr": "(iki arada bir derede kalmak) ikilemde kalma durumu.",
+          "en": "Between a rock and a hard place"
+        },
+        "11": {
+          "tr": "(ağzında gümüş kaşıkla doğmak) doğuştan zengin, varlıklı, şanslı olmak.",
+          "en": "Born with a silver spoon in one’s mouth"
+        },
+        "12": {
+          "tr": "(el yakmak) ‘banka kırmak’ bir şeyin çok pahalı olması.",
+          "en": "Break the bank"
+        },
+        "13": {
+          "tr": "(havayı yumuşatmak) ‘buzları kırmak, yok etmek’ anlamındadır. İlk defa karşılaşan iki insanın arasındaki gerginliği azaltmak ve birbirlerine yakın hissetmeleri için kullanılır.",
+          "en": "Break the ice"
+        },
+        "14": {
+          "tr": "(köprüleri yıkmak) ‘iki kişi arasındaki bağın kopması",
+          "en": "Burn bridges"
+        },
+        "15": {
+          "tr": "(fırtına öncesi sessizlik)",
+          "en": "Calm before the storm"
+        },
+        "16": {
+          "en": "Chasing rainbows",
+          "tr": "(hayal peşinde koşmak) ‘gökkuşağı kovalamak’ olmayacak işleri kovalamak, gerçekleşmesi zor olaylar için uğraşmak."
+        },
+        "17": {
+          "tr": "(ne olursa olsun) ‘yağmurda yağsa, güneş de açsa",
+          "en": "Come rain or come shine"
+        },
+        "18": {
+          "tr": "(karşılaştırması doğru olmayan iki şeyin kıyaslanması) ‘elmalarla portakalların karışması",
+          "en": "Comparing apples to oranges"
+        },
+        "19": {
+          "tr": "(sakin ve soğukkanlı olmak) tek tek çevirdiğinizde bir salatalık kadar serin anlamına gelir:D",
+          "en": "Cool as a cucumber"
+        },
+        "20": {
+          "tr": "(pahalıya mal olmak) ‘bir kol ve bir bacağa mal oldu",
+          "en": "Costs an arm and a leg"
+        },
+        "21": {
+          "tr": "(iyi iş çıkarmak) ‘hardalı kesmek",
+          "en": "Cut the mustard"
+        },
+        "22": {
+          "tr": "(sadede gelmek) konuşmayı kısa kesmek, asıl anlatılmak isteneni bir an önce anlatmak.",
+          "en": "Cut to the chase"
+        },
+        "23": {
+          "tr": "(boşa kürek çekmek) ‘ölü bir atı yenme!",
+          "en": "Don’t beat a dead horse"
+        },
+        "24": {
+          "tr": "(kuş kadar yemek) kuş gibi az yemek anlamındadır.",
+          "en": "Eat like a bird"
+        },
+        "25": {
+          "tr": "(gün gibi ortada) ‘odadaki fil’ olarak tercüme edilse de, ‘görmezden gelinip hakkında konuşulmayan aşikar bir sorun’ anlamına gelir. Herkesin bildiği ama kimsenin konuşmadığı görmezden gelinen bir konu için kullanılır.",
+          "en": "Elephant in the room"
+        },
+        "26": {
+          "tr": "(her işte bir hayır vardır) ‘her bulutun gümüş bir kaplaması vardır",
+          "en": "Every cloud has a silver lining"
+        },
+        "27": {
+          "tr": "(sağlam, sağlıklı olmak) ‘turp gibi formda",
+          "en": "Fit as a fiddle"
+        },
+        "28": {
+          "tr": "(soluklanmak) ‘ikinci bir rüzgar almak",
+          "en": "Get a second wind"
+        },
+        "29": {
+          "tr": "(kök söktürmek) iyi mücadele etmek, kazanmak için elinden gelenin en iyisini yapmak.",
+          "en": "Give a run for one’s money"
+        },
+        "30": {
+          "tr": "(birini önemsememek) ‘birine soğuk omuz vermek",
+          "en": "Give someone the cold shoulder"
+        },
+        "31": {
+          "tr": "(olayları akışına bırakmak)",
+          "en": "Go with the flow"
+        }
+        
+      },
+      "4": {
+        "1": {
+          "tr": "(dişini sıkmak) vazgeçmemek",
+          "en": "Hang in there"
+        },
+        "2": {
+          "tr": "(acele işe şeytan karışır) çevrimi ‘acele ziyan yapar'dır.",
+          "en": "Haste makes waste"
+        },
+        "3": {
+          "tr": "(fil hafızasına sahip olmak) kolay kolay unutmayandır.",
+          "en": "Have a memory like an elephant"
+        },
+        "4": {
+          "tr": "(eli uzun olmak) çalmak, hırsızlık yapmak.",
+          "en": "Have sticky fingers"
+        },
+        "5": {
+          "tr": "(ineklemek) ‘kitaplara vurmak’ diye çevrilen çok çalışmak anlamında bir sözdür.",
+          "en": "Hit the books"
+        },
+        "6": {
+          "tr": "(tepesi atmak) tercümesi, ‘çatıya çarpmak’ olan sinirden tepesi atmak, çok kızmak anlamında kullanılan söz.",
+          "en": "Hit the roof"
+        },
+        "7": {
+          "tr": "(kafayı vurup yatmak) ‘bir çuvala vurmak’ olarak tercüme edilir, kafayı vurup yatmak ve uyumak manasındadır.",
+          "en": "Hit the sack"
+        },
+        "8": {
+          "tr": "(küplere binmek) çok sinirlenmek.",
+          "en": "Hot under the collar"
+        },
+        "9": {
+          "tr": "(borca girmek) borç içinde olmak.",
+          "en": "In the red"
+        },
+        "10": {
+          "tr": "(aranmadık yer bırakmamak) her taşın altına bakmak anlamına gelir.",
+          "en": "Leave no stone unturned"
+        },
+        "11": {
+          "tr": "(bir sırrı ortaya çıkarmak) ‘çantadaki kediyi salmak",
+          "en": "Let the cat out of the bag"
+        },
+        "12": {
+          "tr": "(ayrılmaz, sürekli yanyana olmak) ‘bir kapsüldeki iki bezelye’ olarak çevrilir, Türkçede ‘bir elmanın iki yarısı’ manasına gelir.",
+          "en": "Like two peas in a pod"
+        },
+        "13": {
+          "tr": "(ucu ucuna geçinmek) çok para olmadan, kıtı kıtına geçinme hâli.",
+          "en": "Living hand to mouth"
+        },
+        "14": {
+          "tr": "(harika görünmek) ‘bir milyon gibi görünmek.",
+          "en": "Look like a million"
+        },
+        "15": {
+          "tr": "(eskisi kadar iyi olmamak) ‘kontağı kaybetmek",
+          "en": "Lose your touch"
+        },
+        "16": {
+          "en": "Make a mountain out of a molehill",
+          "tr": "(pireyi deve yapmak) bir şeyi abartmak, büyütmek."
+        },
+        "17": {
+          "tr": "(kıt kanaat geçinmek) sadece temel ihtiyaçları karşılayabilme hâli. ‘sonları buluşturmak",
+          "en": "Make ends meet"
+        },
+        "18": {
+          "tr": "(başa baş gitmek) aynı düzeyde olmak.",
+          "en": "Neck and neck"
+        },
+        "19": {
+          "tr": "(modası geçmiş)",
+          "en": "Old hat."
+        },
+        "20": {
+          "tr": "(mutluluğun doruklarında) çok sevinçli olmak",
+          "en": "On cloud nine"
+        },
+        "21": {
+          "tr": "(hazırlıklı olmak, işini bilmek) ‘topun üzerinde olmak",
+          "en": "On the ball"
+        },
+        "22": {
+          "tr": "(kötü bir olayın olmak üzere olması) ‘ince buz üstünde’",
+          "en": "On thin ice"
+        },
+        "23": {
+          "tr": "(ayda yılda bir) ‘her mavi ay olduğunda’ bir şeyin çok nadir gerçekleştiğini anlatırken.",
+          "en": "Once in a blue moon"
+        },
+        "24": {
+          "tr": "(birini işletmek, kandırmak) şaka yoluyla birini kandırmak.",
+          "en": "Pull someone’s leg"
+        },
+        "25": {
+          "tr": "birini istemeden utandırmak",
+          "en": "Put one’s foot in it"
+        },
+        "26": {
+          "tr": "(bardaktan boşanırcasına yağmur yağması) ‘kedi köpek yağıyor’ yağmurun şiddetini anlatırken kullanılır.",
+          "en": "Raining cats and dogs"
+        },
+        "27": {
+          "tr": "(bir şeyler çağrıştırmak) ‘zil çalmak’ bir yerden anımsamak anlamındadır.",
+          "en": "Ring a bell"
+        },
+        "28": {
+          "tr": "(kötü günler için birikim yapmak)",
+          "en": "Saving for a rainy day"
+        },
+        "29": {
+          "tr": "(tereciye tere satmak) ‘Eskimo’ya buz satmak’",
+          "en": "Sell ice to Eskimos"
+        },
+        "30": {
+          "tr": "(daha iyisini yap ya da git) Türkçede ‘ya bu deveyi güdersin ya bu diyardan gidersin’ olarak kullanılır.",
+          "en": "Shape up or ship out"
+        }
+        
+      },
+        
+      
+      "5": {
+        "1": {
+          "tr": "(iti an çomağı hazırla) çevrimi ‘şeytanın konuşması’ olan, sevilmeyen birinin bahsi geçerken konuşmanın üzerine gelmesi durumu.",
+          "en": "Speak of the devil"
+        },
+        "2": {
+          "tr": "(baklayı ağzından çıkarmak) ‘sırları anlatmak’",
+          "en": "Spill the beans"
+        },
+        "3": {
+          "tr": "(birini sırtından bıçaklamak) birinin güvenini kaybetmek, ona ihanet etmek.",
+          "en": "Stab someone in the back"
+        },
+        "4": {
+          "tr": "(konuşkan olmak)",
+          "en": "Talk like a blue streak"
+        },
+        "5": {
+          "tr": "(eli sıkı olmak) cimri olmak.",
+          "en": "To be closefisted"
+        },
+        "6": {
+          "tr": "(ağzından girip burnundan çıkmak) kelime anlamı, ‘birinin kolunu ters çevirmek’ dir. Ancak bir kişiyi ne yapıp edip ikna etmek manasına gelir.",
+          "en": "Twist someone’s arm"
+        },
+        "7": {
+          "tr": "(askıda kalmak, havada kalmak) bir şeyin belirsiz oluşu.",
+          "en": "Up in the air"
+        },
+        "8": {
+          "tr": "(badire atlatmak) zorlukların üstesinden gelmek, hakkından gelmek.",
+          "en": "Weather a storm"
+        },
+        "9": {
+          "tr": "(aksilikler üst üste gelir) Birden fazla kötü olayın arka arkaya gelmesi durumu. “Yağmur yağdığında dökülür” anlamına gelir.",
+          "en": "When it rains, it pours"
+        },
+        "10": {
+          "tr": "Çevirisi ‘domuzlar uçtuğunda’ olan, bir olayın gerçekleşmesinin ne kadar imkânsız olduğundan bahsetmek için kullanılan kalıp.",
+          "en": "When pigs fly"
+        },
+        "11": {
+          "tr": "(tıkır tıkır çalışmak)",
+          "en": "Work like a charm"
+        },
+        "12": {
+          "tr": "(at gibi çalışmak) çok çalışmak, Türkçede ‘eşek gibi’ ile aynı anlamdadır.",
+          "en": "Work like a horse"
+        },
+        "13": {
+          "tr": "Haydan gelen huya gider",
+          "en": "Easy come, easy go"
+        },
+        "14": {
+          "tr": "Elçiye zeval olmaz",
+          "en": "Don't shoot the messenger"
+        },
+        "15": {
+          "tr": "Ortam çok gergin",
+          "en": "You can cut the atmosphere with a knife"
+        },
+        "16": {
+          "en": "Bi şansını dene",
+          "tr": "Give it a go / give it a shot"
+        },
+        "17": {
+          "tr": "Tam üstüne bastın",
+          "en": "You hit the nail on the head "
+        },
+        "18": {
+          "tr": "Su uyur düşman uyumaz - Düşmanını yakın tut",
+          "en": "Keep your enemy at bay"
+        },
+        "19": {
+          "tr": "Söylesem tesiri yok, sussam gönül razı değil",
+          "en": "Damned if I say, damned if I don't"
+        },
+        "20": {
+          "tr": "içince b.kunu çıkarıyorsun",
+          "en": "you go overboard while drinking"
+        },
+        "21": {
+          "tr": "Aklımdan çıkıvermiş",
+          "en": "It slipped my mind "
+        },
+        "22": {
+          "tr": "Geveleyip durma, lafı dolandırma",
+          "en": "Stop beating about the bush "
+        },
+        "23": {
+          "tr": "Ankara'yı avucumun içi gibi bilirim",
+          "en": "I know Ankara like the back of my hand"
+        },
+        "24": {
+          "tr": "Şu an aklıma gelmedi",
+          "en": "I don't know off the top of my head"
+        },
+        "25": {
+          "tr": "Çıkar ağzındaki baklayı",
+          "en": "Spill the beans"
+        },
+        "26": {
+          "tr": "Ciğerini bilirim",
+          "en": "I know.. inside out. "
+        },
+        "27": {
+          "tr": "Kolay lokma, çocuk oyuncağı",
+          "en": "Piece of cake"
+        },
+        "28": {
+          "tr": "Aynı bisiklet sürmek gibi, bir kez öğrenildiğinde unutulmayacak olan şey",
+          "en": "Like riding a bicycle"
+        },
+        "29": {
+          "tr": "Boşa hayal kovalamak",
+          "en": "Chasing rainbows"
+        },
+        "30": {
+          "tr": "Tek taşla iki kuş vurmak",
+          "en": "Kill two birds with one stone"
+        },      
+        "31": {
+          "tr": "Top sende, karar sana ait",
+          "en": "The ball is in your court"
+        }
+        
+      },
+      "6": {
+        "1": {
+          "tr": "(çetin ceviz) uğraşılması zor kişi için kullanılır.",
+          "en": "A hard nut to crack"
+        },
+        "2": {
+          "tr": "(mükemmel fırtına) olabilecek en kötü durum anlamında kullanılır.",
+          "en": "A perfect storm"
+        },
+        "3": {
+          "tr": "(çocuk oyuncağı) ‘kolay lokma’ bir işin basit olduğunu ifade eder.",
+          "en": "A piece of cake"
+        },
+        "4": {
+          "tr": "(küçük bir sorunu abartmak, büyütmek) ‘bir çay bardağında fırtına’ Türkçede ‘bir bardak suda fırtına koparmak’ olarak kullanılır.",
+          "en": "A storm in a teacup"
+        },
+        "5": {
+          "tr": "(lafla peynir gemisi yürümez) ‘eylemler, sözden daha yüksek sesle konuşur",
+          "en": "Actions speak louder than words"
+        },
+        "6": {
+          "tr": "(buz gibi soğuk) ‘taş kadar soğuk",
+          "en": "As cold as stone"
+        },
+        "7": {
+          "tr": "(tamamen doğru, haklı) ‘yağmur gibi gerçek",
+          "en": "As right as rain"
+        },
+        "8": {
+          "tr": "(çözüm için yanlış yere bakmak) ‘yanlış ağaca havlamak’ çareyi yanlış yerlerde aramayı ifade eder.",
+          "en": "Barking up the wrong tree"
+        },
+        "9": {
+          "tr": "(geç olsun güç olmasın) ‘Asla olmamasındansa geç olması iyidir’ anlamındadır.",
+          "en": "Better late than never"
+        },
+        "10": {
+          "tr": "(iki arada bir derede kalmak) ikilemde kalma durumu.",
+          "en": "Between a rock and a hard place"
+        },
+        "11": {
+          "tr": "(ağzında gümüş kaşıkla doğmak) doğuştan zengin, varlıklı, şanslı olmak.",
+          "en": "Born with a silver spoon in one’s mouth"
+        },
+        "12": {
+          "tr": "(el yakmak) ‘banka kırmak’ bir şeyin çok pahalı olması.",
+          "en": "Break the bank"
+        },
+        "13": {
+          "tr": "(havayı yumuşatmak) ‘buzları kırmak, yok etmek’ anlamındadır. İlk defa karşılaşan iki insanın arasındaki gerginliği azaltmak ve birbirlerine yakın hissetmeleri için kullanılır.",
+          "en": "Break the ice"
+        },
+        "14": {
+          "tr": "(köprüleri yıkmak) ‘iki kişi arasındaki bağın kopması",
+          "en": "Burn bridges"
+        },
+        "15": {
+          "tr": "(fırtına öncesi sessizlik)",
+          "en": "Calm before the storm"
+        },
+        "16": {
+          "en": "Chasing rainbows",
+          "tr": "(hayal peşinde koşmak) ‘gökkuşağı kovalamak’ olmayacak işleri kovalamak, gerçekleşmesi zor olaylar için uğraşmak."
+        },
+        "17": {
+          "tr": "(ne olursa olsun) ‘yağmurda yağsa, güneş de açsa",
+          "en": "Come rain or come shine"
+        },
+        "18": {
+          "tr": "(karşılaştırması doğru olmayan iki şeyin kıyaslanması) ‘elmalarla portakalların karışması",
+          "en": "Comparing apples to oranges"
+        },
+        "19": {
+          "tr": "(sakin ve soğukkanlı olmak) tek tek çevirdiğinizde bir salatalık kadar serin anlamına gelir:D",
+          "en": "Cool as a cucumber"
+        },
+        "20": {
+          "tr": "(pahalıya mal olmak) ‘bir kol ve bir bacağa mal oldu",
+          "en": "Costs an arm and a leg"
+        },
+        "21": {
+          "tr": "(iyi iş çıkarmak) ‘hardalı kesmek",
+          "en": "Cut the mustard"
+        },
+        "22": {
+          "tr": "(sadede gelmek) konuşmayı kısa kesmek, asıl anlatılmak isteneni bir an önce anlatmak.",
+          "en": "Cut to the chase"
+        },
+        "23": {
+          "tr": "(boşa kürek çekmek) ‘ölü bir atı yenme!",
+          "en": "Don’t beat a dead horse"
+        },
+        "24": {
+          "tr": "(kuş kadar yemek) kuş gibi az yemek anlamındadır.",
+          "en": "Eat like a bird"
+        },
+        "25": {
+          "tr": "(gün gibi ortada) ‘odadaki fil’ olarak tercüme edilse de, ‘görmezden gelinip hakkında konuşulmayan aşikar bir sorun’ anlamına gelir. Herkesin bildiği ama kimsenin konuşmadığı görmezden gelinen bir konu için kullanılır.",
+          "en": "Elephant in the room"
+        },
+        "26": {
+          "tr": "(her işte bir hayır vardır) ‘her bulutun gümüş bir kaplaması vardır",
+          "en": "Every cloud has a silver lining"
+        },
+        "27": {
+          "tr": "(sağlam, sağlıklı olmak) ‘turp gibi formda",
+          "en": "Fit as a fiddle"
+        },
+        "28": {
+          "tr": "(soluklanmak) ‘ikinci bir rüzgar almak",
+          "en": "Get a second wind"
+        },
+        "29": {
+          "tr": "(kök söktürmek) iyi mücadele etmek, kazanmak için elinden gelenin en iyisini yapmak.",
+          "en": "Give a run for one’s money"
+        },
+        "30": {
+          "tr": "(birini önemsememek) ‘birine soğuk omuz vermek",
+          "en": "Give someone the cold shoulder"
+        },
+        "31": {
+          "tr": "(olayları akışına bırakmak)",
+          "en": "Go with the flow"
+        }
+        
+      },
+      "7": {
+        "1": {
+          "tr": "(dişini sıkmak) vazgeçmemek",
+          "en": "Hang in there"
+        },
+        "2": {
+          "tr": "(acele işe şeytan karışır) çevrimi ‘acele ziyan yapar'dır.",
+          "en": "Haste makes waste"
+        },
+        "3": {
+          "tr": "(fil hafızasına sahip olmak) kolay kolay unutmayandır.",
+          "en": "Have a memory like an elephant"
+        },
+        "4": {
+          "tr": "(eli uzun olmak) çalmak, hırsızlık yapmak.",
+          "en": "Have sticky fingers"
+        },
+        "5": {
+          "tr": "(ineklemek) ‘kitaplara vurmak’ diye çevrilen çok çalışmak anlamında bir sözdür.",
+          "en": "Hit the books"
+        },
+        "6": {
+          "tr": "(tepesi atmak) tercümesi, ‘çatıya çarpmak’ olan sinirden tepesi atmak, çok kızmak anlamında kullanılan söz.",
+          "en": "Hit the roof"
+        },
+        "7": {
+          "tr": "(kafayı vurup yatmak) ‘bir çuvala vurmak’ olarak tercüme edilir, kafayı vurup yatmak ve uyumak manasındadır.",
+          "en": "Hit the sack"
+        },
+        "8": {
+          "tr": "(küplere binmek) çok sinirlenmek.",
+          "en": "Hot under the collar"
+        },
+        "9": {
+          "tr": "(borca girmek) borç içinde olmak.",
+          "en": "In the red"
+        },
+        "10": {
+          "tr": "(aranmadık yer bırakmamak) her taşın altına bakmak anlamına gelir.",
+          "en": "Leave no stone unturned"
+        },
+        "11": {
+          "tr": "(bir sırrı ortaya çıkarmak) ‘çantadaki kediyi salmak",
+          "en": "Let the cat out of the bag"
+        },
+        "12": {
+          "tr": "(ayrılmaz, sürekli yanyana olmak) ‘bir kapsüldeki iki bezelye’ olarak çevrilir, Türkçede ‘bir elmanın iki yarısı’ manasına gelir.",
+          "en": "Like two peas in a pod"
+        },
+        "13": {
+          "tr": "(ucu ucuna geçinmek) çok para olmadan, kıtı kıtına geçinme hâli.",
+          "en": "Living hand to mouth"
+        },
+        "14": {
+          "tr": "(harika görünmek) ‘bir milyon gibi görünmek.",
+          "en": "Look like a million"
+        },
+        "15": {
+          "tr": "(eskisi kadar iyi olmamak) ‘kontağı kaybetmek",
+          "en": "Lose your touch"
+        },
+        "16": {
+          "en": "Make a mountain out of a molehill",
+          "tr": "(pireyi deve yapmak) bir şeyi abartmak, büyütmek."
+        },
+        "17": {
+          "tr": "(kıt kanaat geçinmek) sadece temel ihtiyaçları karşılayabilme hâli. ‘sonları buluşturmak",
+          "en": "Make ends meet"
+        },
+        "18": {
+          "tr": "(başa baş gitmek) aynı düzeyde olmak.",
+          "en": "Neck and neck"
+        },
+        "19": {
+          "tr": "(modası geçmiş)",
+          "en": "Old hat."
+        },
+        "20": {
+          "tr": "(mutluluğun doruklarında) çok sevinçli olmak",
+          "en": "On cloud nine"
+        },
+        "21": {
+          "tr": "(hazırlıklı olmak, işini bilmek) ‘topun üzerinde olmak",
+          "en": "On the ball"
+        },
+        "22": {
+          "tr": "(kötü bir olayın olmak üzere olması) ‘ince buz üstünde’",
+          "en": "On thin ice"
+        },
+        "23": {
+          "tr": "(ayda yılda bir) ‘her mavi ay olduğunda’ bir şeyin çok nadir gerçekleştiğini anlatırken.",
+          "en": "Once in a blue moon"
+        },
+        "24": {
+          "tr": "(birini işletmek, kandırmak) şaka yoluyla birini kandırmak.",
+          "en": "Pull someone’s leg"
+        },
+        "25": {
+          "tr": "birini istemeden utandırmak",
+          "en": "Put one’s foot in it"
+        },
+        "26": {
+          "tr": "(bardaktan boşanırcasına yağmur yağması) ‘kedi köpek yağıyor’ yağmurun şiddetini anlatırken kullanılır.",
+          "en": "Raining cats and dogs"
+        },
+        "27": {
+          "tr": "(bir şeyler çağrıştırmak) ‘zil çalmak’ bir yerden anımsamak anlamındadır.",
+          "en": "Ring a bell"
+        },
+        "28": {
+          "tr": "(kötü günler için birikim yapmak)",
+          "en": "Saving for a rainy day"
+        },
+        "29": {
+          "tr": "(tereciye tere satmak) ‘Eskimo’ya buz satmak’",
+          "en": "Sell ice to Eskimos"
+        },
+        "30": {
+          "tr": "(daha iyisini yap ya da git) Türkçede ‘ya bu deveyi güdersin ya bu diyardan gidersin’ olarak kullanılır.",
+          "en": "Shape up or ship out"
+        }
+        
+      },
+        
+      
+      "8": {
+        "1": {
+          "tr": "(iti an çomağı hazırla) çevrimi ‘şeytanın konuşması’ olan, sevilmeyen birinin bahsi geçerken konuşmanın üzerine gelmesi durumu.",
+          "en": "Speak of the devil"
+        },
+        "2": {
+          "tr": "(baklayı ağzından çıkarmak) ‘sırları anlatmak’",
+          "en": "Spill the beans"
+        },
+        "3": {
+          "tr": "(birini sırtından bıçaklamak) birinin güvenini kaybetmek, ona ihanet etmek.",
+          "en": "Stab someone in the back"
+        },
+        "4": {
+          "tr": "(konuşkan olmak)",
+          "en": "Talk like a blue streak"
+        },
+        "5": {
+          "tr": "(eli sıkı olmak) cimri olmak.",
+          "en": "To be closefisted"
+        },
+        "6": {
+          "tr": "(ağzından girip burnundan çıkmak) kelime anlamı, ‘birinin kolunu ters çevirmek’ dir. Ancak bir kişiyi ne yapıp edip ikna etmek manasına gelir.",
+          "en": "Twist someone’s arm"
+        },
+        "7": {
+          "tr": "(askıda kalmak, havada kalmak) bir şeyin belirsiz oluşu.",
+          "en": "Up in the air"
+        },
+        "8": {
+          "tr": "(badire atlatmak) zorlukların üstesinden gelmek, hakkından gelmek.",
+          "en": "Weather a storm"
+        },
+        "9": {
+          "tr": "(aksilikler üst üste gelir) Birden fazla kötü olayın arka arkaya gelmesi durumu. “Yağmur yağdığında dökülür” anlamına gelir.",
+          "en": "When it rains, it pours"
+        },
+        "10": {
+          "tr": "Çevirisi ‘domuzlar uçtuğunda’ olan, bir olayın gerçekleşmesinin ne kadar imkânsız olduğundan bahsetmek için kullanılan kalıp.",
+          "en": "When pigs fly"
+        },
+        "11": {
+          "tr": "(tıkır tıkır çalışmak)",
+          "en": "Work like a charm"
+        },
+        "12": {
+          "tr": "(at gibi çalışmak) çok çalışmak, Türkçede ‘eşek gibi’ ile aynı anlamdadır.",
+          "en": "Work like a horse"
+        },
+        "13": {
+          "tr": "Haydan gelen huya gider",
+          "en": "Easy come, easy go"
+        },
+        "14": {
+          "tr": "Elçiye zeval olmaz",
+          "en": "Don't shoot the messenger"
+        },
+        "15": {
+          "tr": "Ortam çok gergin",
+          "en": "You can cut the atmosphere with a knife"
+        },
+        "16": {
+          "en": "Bi şansını dene",
+          "tr": "Give it a go / give it a shot"
+        },
+        "17": {
+          "tr": "Tam üstüne bastın",
+          "en": "You hit the nail on the head "
+        },
+        "18": {
+          "tr": "Su uyur düşman uyumaz - Düşmanını yakın tut",
+          "en": "Keep your enemy at bay"
+        },
+        "19": {
+          "tr": "Söylesem tesiri yok, sussam gönül razı değil",
+          "en": "Damned if I say, damned if I don't"
+        },
+        "20": {
+          "tr": "içince b.kunu çıkarıyorsun",
+          "en": "you go overboard while drinking"
+        },
+        "21": {
+          "tr": "Aklımdan çıkıvermiş",
+          "en": "It slipped my mind "
+        },
+        "22": {
+          "tr": "Geveleyip durma, lafı dolandırma",
+          "en": "Stop beating about the bush "
+        },
+        "23": {
+          "tr": "Ankara'yı avucumun içi gibi bilirim",
+          "en": "I know Ankara like the back of my hand"
+        },
+        "24": {
+          "tr": "Şu an aklıma gelmedi",
+          "en": "I don't know off the top of my head"
+        },
+        "25": {
+          "tr": "Çıkar ağzındaki baklayı",
+          "en": "Spill the beans"
+        },
+        "26": {
+          "tr": "Ciğerini bilirim",
+          "en": "I know.. inside out. "
+        },
+        "27": {
+          "tr": "Kolay lokma, çocuk oyuncağı",
+          "en": "Piece of cake"
+        },
+        "28": {
+          "tr": "Aynı bisiklet sürmek gibi, bir kez öğrenildiğinde unutulmayacak olan şey",
+          "en": "Like riding a bicycle"
+        },
+        "29": {
+          "tr": "Boşa hayal kovalamak",
+          "en": "Chasing rainbows"
+        },
+        "30": {
+          "tr": "Tek taşla iki kuş vurmak",
+          "en": "Kill two birds with one stone"
+        },      
+        "31": {
+          "tr": "Top sende, karar sana ait",
+          "en": "The ball is in your court"
+        }
+        
+      },
+      "9": {
+        "1": {
+          "tr": "(çetin ceviz) uğraşılması zor kişi için kullanılır.",
+          "en": "A hard nut to crack"
+        },
+        "2": {
+          "tr": "(mükemmel fırtına) olabilecek en kötü durum anlamında kullanılır.",
+          "en": "A perfect storm"
+        },
+        "3": {
+          "tr": "(çocuk oyuncağı) ‘kolay lokma’ bir işin basit olduğunu ifade eder.",
+          "en": "A piece of cake"
+        },
+        "4": {
+          "tr": "(küçük bir sorunu abartmak, büyütmek) ‘bir çay bardağında fırtına’ Türkçede ‘bir bardak suda fırtına koparmak’ olarak kullanılır.",
+          "en": "A storm in a teacup"
+        },
+        "5": {
+          "tr": "(lafla peynir gemisi yürümez) ‘eylemler, sözden daha yüksek sesle konuşur",
+          "en": "Actions speak louder than words"
+        },
+        "6": {
+          "tr": "(buz gibi soğuk) ‘taş kadar soğuk",
+          "en": "As cold as stone"
+        },
+        "7": {
+          "tr": "(tamamen doğru, haklı) ‘yağmur gibi gerçek",
+          "en": "As right as rain"
+        },
+        "8": {
+          "tr": "(çözüm için yanlış yere bakmak) ‘yanlış ağaca havlamak’ çareyi yanlış yerlerde aramayı ifade eder.",
+          "en": "Barking up the wrong tree"
+        },
+        "9": {
+          "tr": "(geç olsun güç olmasın) ‘Asla olmamasındansa geç olması iyidir’ anlamındadır.",
+          "en": "Better late than never"
+        },
+        "10": {
+          "tr": "(iki arada bir derede kalmak) ikilemde kalma durumu.",
+          "en": "Between a rock and a hard place"
+        },
+        "11": {
+          "tr": "(ağzında gümüş kaşıkla doğmak) doğuştan zengin, varlıklı, şanslı olmak.",
+          "en": "Born with a silver spoon in one’s mouth"
+        },
+        "12": {
+          "tr": "(el yakmak) ‘banka kırmak’ bir şeyin çok pahalı olması.",
+          "en": "Break the bank"
+        },
+        "13": {
+          "tr": "(havayı yumuşatmak) ‘buzları kırmak, yok etmek’ anlamındadır. İlk defa karşılaşan iki insanın arasındaki gerginliği azaltmak ve birbirlerine yakın hissetmeleri için kullanılır.",
+          "en": "Break the ice"
+        },
+        "14": {
+          "tr": "(köprüleri yıkmak) ‘iki kişi arasındaki bağın kopması",
+          "en": "Burn bridges"
+        },
+        "15": {
+          "tr": "(fırtına öncesi sessizlik)",
+          "en": "Calm before the storm"
+        },
+        "16": {
+          "en": "Chasing rainbows",
+          "tr": "(hayal peşinde koşmak) ‘gökkuşağı kovalamak’ olmayacak işleri kovalamak, gerçekleşmesi zor olaylar için uğraşmak."
+        },
+        "17": {
+          "tr": "(ne olursa olsun) ‘yağmurda yağsa, güneş de açsa",
+          "en": "Come rain or come shine"
+        },
+        "18": {
+          "tr": "(karşılaştırması doğru olmayan iki şeyin kıyaslanması) ‘elmalarla portakalların karışması",
+          "en": "Comparing apples to oranges"
+        },
+        "19": {
+          "tr": "(sakin ve soğukkanlı olmak) tek tek çevirdiğinizde bir salatalık kadar serin anlamına gelir:D",
+          "en": "Cool as a cucumber"
+        },
+        "20": {
+          "tr": "(pahalıya mal olmak) ‘bir kol ve bir bacağa mal oldu",
+          "en": "Costs an arm and a leg"
+        },
+        "21": {
+          "tr": "(iyi iş çıkarmak) ‘hardalı kesmek",
+          "en": "Cut the mustard"
+        },
+        "22": {
+          "tr": "(sadede gelmek) konuşmayı kısa kesmek, asıl anlatılmak isteneni bir an önce anlatmak.",
+          "en": "Cut to the chase"
+        },
+        "23": {
+          "tr": "(boşa kürek çekmek) ‘ölü bir atı yenme!",
+          "en": "Don’t beat a dead horse"
+        },
+        "24": {
+          "tr": "(kuş kadar yemek) kuş gibi az yemek anlamındadır.",
+          "en": "Eat like a bird"
+        },
+        "25": {
+          "tr": "(gün gibi ortada) ‘odadaki fil’ olarak tercüme edilse de, ‘görmezden gelinip hakkında konuşulmayan aşikar bir sorun’ anlamına gelir. Herkesin bildiği ama kimsenin konuşmadığı görmezden gelinen bir konu için kullanılır.",
+          "en": "Elephant in the room"
+        },
+        "26": {
+          "tr": "(her işte bir hayır vardır) ‘her bulutun gümüş bir kaplaması vardır",
+          "en": "Every cloud has a silver lining"
+        },
+        "27": {
+          "tr": "(sağlam, sağlıklı olmak) ‘turp gibi formda",
+          "en": "Fit as a fiddle"
+        },
+        "28": {
+          "tr": "(soluklanmak) ‘ikinci bir rüzgar almak",
+          "en": "Get a second wind"
+        },
+        "29": {
+          "tr": "(kök söktürmek) iyi mücadele etmek, kazanmak için elinden gelenin en iyisini yapmak.",
+          "en": "Give a run for one’s money"
+        },
+        "30": {
+          "tr": "(birini önemsememek) ‘birine soğuk omuz vermek",
+          "en": "Give someone the cold shoulder"
+        },
+        "31": {
+          "tr": "(olayları akışına bırakmak)",
+          "en": "Go with the flow"
+        }
+        
+      },
+      "10": {
+        "1": {
+          "tr": "(dişini sıkmak) vazgeçmemek",
+          "en": "Hang in there"
+        },
+        "2": {
+          "tr": "(acele işe şeytan karışır) çevrimi ‘acele ziyan yapar'dır.",
+          "en": "Haste makes waste"
+        },
+        "3": {
+          "tr": "(fil hafızasına sahip olmak) kolay kolay unutmayandır.",
+          "en": "Have a memory like an elephant"
+        },
+        "4": {
+          "tr": "(eli uzun olmak) çalmak, hırsızlık yapmak.",
+          "en": "Have sticky fingers"
+        },
+        "5": {
+          "tr": "(ineklemek) ‘kitaplara vurmak’ diye çevrilen çok çalışmak anlamında bir sözdür.",
+          "en": "Hit the books"
+        },
+        "6": {
+          "tr": "(tepesi atmak) tercümesi, ‘çatıya çarpmak’ olan sinirden tepesi atmak, çok kızmak anlamında kullanılan söz.",
+          "en": "Hit the roof"
+        },
+        "7": {
+          "tr": "(kafayı vurup yatmak) ‘bir çuvala vurmak’ olarak tercüme edilir, kafayı vurup yatmak ve uyumak manasındadır.",
+          "en": "Hit the sack"
+        },
+        "8": {
+          "tr": "(küplere binmek) çok sinirlenmek.",
+          "en": "Hot under the collar"
+        },
+        "9": {
+          "tr": "(borca girmek) borç içinde olmak.",
+          "en": "In the red"
+        },
+        "10": {
+          "tr": "(aranmadık yer bırakmamak) her taşın altına bakmak anlamına gelir.",
+          "en": "Leave no stone unturned"
+        },
+        "11": {
+          "tr": "(bir sırrı ortaya çıkarmak) ‘çantadaki kediyi salmak",
+          "en": "Let the cat out of the bag"
+        },
+        "12": {
+          "tr": "(ayrılmaz, sürekli yanyana olmak) ‘bir kapsüldeki iki bezelye’ olarak çevrilir, Türkçede ‘bir elmanın iki yarısı’ manasına gelir.",
+          "en": "Like two peas in a pod"
+        },
+        "13": {
+          "tr": "(ucu ucuna geçinmek) çok para olmadan, kıtı kıtına geçinme hâli.",
+          "en": "Living hand to mouth"
+        },
+        "14": {
+          "tr": "(harika görünmek) ‘bir milyon gibi görünmek.",
+          "en": "Look like a million"
+        },
+        "15": {
+          "tr": "(eskisi kadar iyi olmamak) ‘kontağı kaybetmek",
+          "en": "Lose your touch"
+        },
+        "16": {
+          "en": "Make a mountain out of a molehill",
+          "tr": "(pireyi deve yapmak) bir şeyi abartmak, büyütmek."
+        },
+        "17": {
+          "tr": "(kıt kanaat geçinmek) sadece temel ihtiyaçları karşılayabilme hâli. ‘sonları buluşturmak",
+          "en": "Make ends meet"
+        },
+        "18": {
+          "tr": "(başa baş gitmek) aynı düzeyde olmak.",
+          "en": "Neck and neck"
+        },
+        "19": {
+          "tr": "(modası geçmiş)",
+          "en": "Old hat."
+        },
+        "20": {
+          "tr": "(mutluluğun doruklarında) çok sevinçli olmak",
+          "en": "On cloud nine"
+        },
+        "21": {
+          "tr": "(hazırlıklı olmak, işini bilmek) ‘topun üzerinde olmak",
+          "en": "On the ball"
+        },
+        "22": {
+          "tr": "(kötü bir olayın olmak üzere olması) ‘ince buz üstünde’",
+          "en": "On thin ice"
+        },
+        "23": {
+          "tr": "(ayda yılda bir) ‘her mavi ay olduğunda’ bir şeyin çok nadir gerçekleştiğini anlatırken.",
+          "en": "Once in a blue moon"
+        },
+        "24": {
+          "tr": "(birini işletmek, kandırmak) şaka yoluyla birini kandırmak.",
+          "en": "Pull someone’s leg"
+        },
+        "25": {
+          "tr": "birini istemeden utandırmak",
+          "en": "Put one’s foot in it"
+        },
+        "26": {
+          "tr": "(bardaktan boşanırcasına yağmur yağması) ‘kedi köpek yağıyor’ yağmurun şiddetini anlatırken kullanılır.",
+          "en": "Raining cats and dogs"
+        },
+        "27": {
+          "tr": "(bir şeyler çağrıştırmak) ‘zil çalmak’ bir yerden anımsamak anlamındadır.",
+          "en": "Ring a bell"
+        },
+        "28": {
+          "tr": "(kötü günler için birikim yapmak)",
+          "en": "Saving for a rainy day"
+        },
+        "29": {
+          "tr": "(tereciye tere satmak) ‘Eskimo’ya buz satmak’",
+          "en": "Sell ice to Eskimos"
+        },
+        "30": {
+          "tr": "(daha iyisini yap ya da git) Türkçede ‘ya bu deveyi güdersin ya bu diyardan gidersin’ olarak kullanılır.",
+          "en": "Shape up or ship out"
+        }
+        
+      },
+        
+      
+      "11": {
+        "1": {
+          "tr": "(iti an çomağı hazırla) çevrimi ‘şeytanın konuşması’ olan, sevilmeyen birinin bahsi geçerken konuşmanın üzerine gelmesi durumu.",
+          "en": "Speak of the devil"
+        },
+        "2": {
+          "tr": "(baklayı ağzından çıkarmak) ‘sırları anlatmak’",
+          "en": "Spill the beans"
+        },
+        "3": {
+          "tr": "(birini sırtından bıçaklamak) birinin güvenini kaybetmek, ona ihanet etmek.",
+          "en": "Stab someone in the back"
+        },
+        "4": {
+          "tr": "(konuşkan olmak)",
+          "en": "Talk like a blue streak"
+        },
+        "5": {
+          "tr": "(eli sıkı olmak) cimri olmak.",
+          "en": "To be closefisted"
+        },
+        "6": {
+          "tr": "(ağzından girip burnundan çıkmak) kelime anlamı, ‘birinin kolunu ters çevirmek’ dir. Ancak bir kişiyi ne yapıp edip ikna etmek manasına gelir.",
+          "en": "Twist someone’s arm"
+        },
+        "7": {
+          "tr": "(askıda kalmak, havada kalmak) bir şeyin belirsiz oluşu.",
+          "en": "Up in the air"
+        },
+        "8": {
+          "tr": "(badire atlatmak) zorlukların üstesinden gelmek, hakkından gelmek.",
+          "en": "Weather a storm"
+        },
+        "9": {
+          "tr": "(aksilikler üst üste gelir) Birden fazla kötü olayın arka arkaya gelmesi durumu. “Yağmur yağdığında dökülür” anlamına gelir.",
+          "en": "When it rains, it pours"
+        },
+        "10": {
+          "tr": "Çevirisi ‘domuzlar uçtuğunda’ olan, bir olayın gerçekleşmesinin ne kadar imkânsız olduğundan bahsetmek için kullanılan kalıp.",
+          "en": "When pigs fly"
+        },
+        "11": {
+          "tr": "(tıkır tıkır çalışmak)",
+          "en": "Work like a charm"
+        },
+        "12": {
+          "tr": "(at gibi çalışmak) çok çalışmak, Türkçede ‘eşek gibi’ ile aynı anlamdadır.",
+          "en": "Work like a horse"
+        },
+        "13": {
+          "tr": "Haydan gelen huya gider",
+          "en": "Easy come, easy go"
+        },
+        "14": {
+          "tr": "Elçiye zeval olmaz",
+          "en": "Don't shoot the messenger"
+        },
+        "15": {
+          "tr": "Ortam çok gergin",
+          "en": "You can cut the atmosphere with a knife"
+        },
+        "16": {
+          "en": "Bi şansını dene",
+          "tr": "Give it a go / give it a shot"
+        },
+        "17": {
+          "tr": "Tam üstüne bastın",
+          "en": "You hit the nail on the head "
+        },
+        "18": {
+          "tr": "Su uyur düşman uyumaz - Düşmanını yakın tut",
+          "en": "Keep your enemy at bay"
+        },
+        "19": {
+          "tr": "Söylesem tesiri yok, sussam gönül razı değil",
+          "en": "Damned if I say, damned if I don't"
+        },
+        "20": {
+          "tr": "içince b.kunu çıkarıyorsun",
+          "en": "you go overboard while drinking"
+        },
+        "21": {
+          "tr": "Aklımdan çıkıvermiş",
+          "en": "It slipped my mind "
+        },
+        "22": {
+          "tr": "Geveleyip durma, lafı dolandırma",
+          "en": "Stop beating about the bush "
+        },
+        "23": {
+          "tr": "Ankara'yı avucumun içi gibi bilirim",
+          "en": "I know Ankara like the back of my hand"
+        },
+        "24": {
+          "tr": "Şu an aklıma gelmedi",
+          "en": "I don't know off the top of my head"
+        },
+        "25": {
+          "tr": "Çıkar ağzındaki baklayı",
+          "en": "Spill the beans"
+        },
+        "26": {
+          "tr": "Ciğerini bilirim",
+          "en": "I know.. inside out. "
+        },
+        "27": {
+          "tr": "Kolay lokma, çocuk oyuncağı",
+          "en": "Piece of cake"
+        },
+        "28": {
+          "tr": "Aynı bisiklet sürmek gibi, bir kez öğrenildiğinde unutulmayacak olan şey",
+          "en": "Like riding a bicycle"
+        },
+        "29": {
+          "tr": "Boşa hayal kovalamak",
+          "en": "Chasing rainbows"
+        },
+        "30": {
+          "tr": "Tek taşla iki kuş vurmak",
+          "en": "Kill two birds with one stone"
+        },      
+        "31": {
+          "tr": "Top sende, karar sana ait",
+          "en": "The ball is in your court"
+        }
+        
+      }
+      
+      
+  }
+}
