@@ -1,5 +1,5 @@
 import React from 'react';
-import { StatusBar, View, Text, Button, TouchableOpacity, Image, ImageBackground } from 'react-native';
+import { StatusBar, View, Text, Button, TouchableOpacity, Image, ImageBackground, Linking } from 'react-native';
 import {useNavigation} from '@react-navigation/native';
 import { StyleSheet,Dimensions } from 'react-native';
 
@@ -32,11 +32,15 @@ const HomeScreen = () => {
         
       </View>
         <View  style={{flexDirection: 'row-reverse'}}>
-        <TouchableOpacity style={styles.socialButtonP}>
+        <TouchableOpacity style={styles.socialButtonP}
+                                onPress={() => Linking.openURL('https://play.google.com/store/apps/developer?id=ceydamehves')
+                                .catch(err => console.error('An error occurred', err))}>
         <Image style={styles.socialImage}
                       source={require ('../assets/google-play.png')}/>
         </TouchableOpacity>
-        <TouchableOpacity style={styles.socialButtonI}>
+        <TouchableOpacity style={styles.socialButtonI}
+                          onPress={() => Linking.openURL('https://www.instagram.com/leacofapp/')
+                          .catch(err => console.error('An error occurred', err))}>
         <Image style={styles.socialImage}
                       source={require ('../assets/instagram.png')}/>
         </TouchableOpacity>
