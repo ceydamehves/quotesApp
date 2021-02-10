@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
   header: {
     alignSelf:'center',
     width: Dimensions.get('window').width * 1,
-    height: Dimensions.get('window').height * 0.25,
+    height: Dimensions.get('window').height * 0.3,
     backgroundColor:'#68C6E8', 
     borderBottomRightRadius: 180,
     borderBottomLeftRadius: 180,
@@ -68,7 +68,7 @@ const styles = StyleSheet.create({
   },
   backButton: {
     alignSelf:'center',
-    marginTop: 75,
+    marginTop: 100,
     marginRight: 130,
     height: 25,
     width: 25,
@@ -79,7 +79,7 @@ const styles = StyleSheet.create({
     width: 25,
   },
   title: {
-    marginTop:20,
+    marginTop:35,
     marginRight: 300, 
     height:30, 
     width:50 , 
