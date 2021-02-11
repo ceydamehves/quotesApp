@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.quotes"
+        applicationId "com.leacofapp.words"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -1,4 +1,4 @@
-package com.quotes;
+package com.leacofapp.words;
 
 import com.facebook.react.ReactActivity;
 
