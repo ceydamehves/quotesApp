@@ -1,6 +1,7 @@
 import React from 'react';
 import { ScrollView, Text, View, Image, TouchableOpacity, ImageBackground } from 'react-native';
 import { StyleSheet,Dimensions } from 'react-native';
+import {AdMobBanner} from 'react-native-admob';
 
 const database = require('../databaseQuote.json');
 
@@ -46,6 +47,14 @@ render(){
         </View>
 
       </ScrollView>
+      <View style={{height: Dimensions.get('window').height *0.15,position: 'absolute',bottom: 0,alignItems:'center'}}>
+      <AdMobBanner
+        adSize="fullBanner"
+        adUnitID="ca-app-pub-3769777005365982/9569256693"
+        testDevices={[AdMobBanner.simulatorId]}
+        onAdFailedToLoad={error => console.error(error)}
+      />
+      </View>
       </ImageBackground>
       </View>
   );
