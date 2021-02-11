@@ -20,14 +20,14 @@ const IdiomsScreen = () => {
       </View>
 
       <View style={{ flex: 0.8 , justifyContent:'center'}}>
-        <TouchableOpacity style={styles.words}
+        <TouchableOpacity style={styles.quotes}
                           onPress={() => {
                             navigation.navigate('IdiomsM')}}>            
             <Text style={styles.text}>Günün 'idiom' ı</Text>
             <Image style={styles.forwardButton}
                         source={require ('../assets/forward.png')}/>
         </TouchableOpacity>
-        <TouchableOpacity style={styles.words}
+        <TouchableOpacity style={styles.quotes}
                           onPress={() => {
                             navigation.navigate('FamousW')}}>            
             <Text style={styles.text}>Günün Sözü</Text>
@@ -80,7 +80,7 @@ const styles = StyleSheet.create({
     height: 20,
     width: 17,
   },
-  words: {
+  quotes: {
     flexDirection:'row',
     justifyContent:'center',
     alignSelf:'center',
