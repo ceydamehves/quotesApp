@@ -2,6 +2,10 @@ package com.leacofapp.words;
 
 import com.facebook.react.ReactActivity;
 
+import android.os.Bundle;
+import com.google.android.gms.ads.MobileAds;
+
+
 public class MainActivity extends ReactActivity {
 
   /**
@@ -12,4 +16,10 @@ public class MainActivity extends ReactActivity {
   protected String getMainComponentName() {
     return "words";
   }
+
+  @Override
+protected void onCreate(Bundle savedInstanceState) {
+  super.onCreate(savedInstanceState);
+  MobileAds.initialize(this, "ca-app-pub-3769777005365982/9569256693");
+}
 }
