@@ -8,6 +8,8 @@ target 'quotes' do
 
   use_react_native!(:path => config["reactNativePath"])
 
+  pod 'lottie-react-native', :path => '../node_modules/lottie-react-native'
+
   target 'quotesTests' do
     inherit! :complete
     # Pods for testing
