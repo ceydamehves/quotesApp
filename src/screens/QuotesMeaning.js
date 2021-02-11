@@ -4,7 +4,7 @@ import { StyleSheet,Dimensions } from 'react-native';
 
 const database = require('../databaseQuote.json');
 
-class QuotesMeaning extends React.Component{
+class wordsMeaning extends React.Component{
 
   constructor (props) {
     super (props)
@@ -22,12 +22,12 @@ render(){
       <ImageBackground source={require ('../assets/bg.png')} style={styles.bg}>
       <View style={styles.header}>        
         <TouchableOpacity style={styles.backButton}
-                          onPress={() => {this.props.navigation.navigate('Quotes')}}>
+                          onPress={() => {this.props.navigation.navigate('words')}}>
         <Image style={styles.backImage}
                         source={require ('../assets/back.png')}/>
         </TouchableOpacity>
         <Image style={styles.headerTitle}
-                        source={require ('../assets/Quotes.png')}/>
+                        source={require ('../assets/words.png')}/>
       </View>
 
       <ScrollView style={{ flex: 1 , alignSelf:'center'}}>
@@ -51,7 +51,7 @@ render(){
   );
 }
 }
-export default QuotesMeaning;
+export default wordsMeaning;
 
 const styles = StyleSheet.create({
   bg:{

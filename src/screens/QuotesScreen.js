@@ -4,7 +4,7 @@ import { StyleSheet,Dimensions } from 'react-native';
 import {useNavigation} from '@react-navigation/native';
 
 
-const QuotesScreen = () => {
+const wordsScreen = () => {
   const navigation = useNavigation();
   return (
     <View style={{ flex: 1, backgroundColor:'#fff' }}>
@@ -16,18 +16,18 @@ const QuotesScreen = () => {
                         source={require ('../assets/back.png')}/>
         </TouchableOpacity>
         <Image style={styles.headerTitle}
-                        source={require ('../assets/Quotes.png')}/>
+                        source={require ('../assets/words.png')}/>
       </View>
 
       <View style={{ flex: 0.8 , justifyContent:'center'}}>
-        <TouchableOpacity style={styles.quotes}
+        <TouchableOpacity style={styles.words}
                           onPress={() => {
-                            navigation.navigate('QuotesM')}}>            
+                            navigation.navigate('wordsM')}}>            
             <Text style={styles.text}>Günün 'quote' u</Text>
             <Image style={styles.forwardButton}
                         source={require ('../assets/forward.png')}/>
         </TouchableOpacity>
-        <TouchableOpacity style={styles.quotes}
+        <TouchableOpacity style={styles.words}
                           onPress={() => {
                             navigation.navigate('FamousW')}}>            
             <Text style={styles.text}>Günün Sözü</Text>
@@ -40,7 +40,7 @@ const QuotesScreen = () => {
   );
 }
 
-export default QuotesScreen;
+export default wordsScreen;
 
 const styles = StyleSheet.create({
   bg:{
@@ -80,7 +80,7 @@ const styles = StyleSheet.create({
     height: 20,
     width: 17,
   },
-  quotes: {
+  words: {
     flexDirection:'row',
     justifyContent:'center',
     alignSelf:'center',

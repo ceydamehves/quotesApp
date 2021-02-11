@@ -3,14 +3,14 @@ require_relative '../node_modules/@react-native-community/cli-platform-ios/nativ
 
 platform :ios, '10.0'
 
-target 'quotes' do
+target 'words' do
   config = use_native_modules!
 
   use_react_native!(:path => config["reactNativePath"])
 
   pod 'lottie-react-native', :path => '../node_modules/lottie-react-native'
 
-  target 'quotesTests' do
+  target 'wordsTests' do
     inherit! :complete
     # Pods for testing
   end
@@ -25,10 +25,10 @@ target 'quotes' do
   end
 end
 
-target 'quotes-tvOS' do
-  # Pods for quotes-tvOS
+target 'words-tvOS' do
+  # Pods for words-tvOS
 
-  target 'quotes-tvOSTests' do
+  target 'words-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

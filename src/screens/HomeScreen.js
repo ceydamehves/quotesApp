@@ -15,9 +15,9 @@ const HomeScreen = () => {
                               source={require ('../assets/logo.png')}/></View>
       <View style={{width: Dimensions.get('window').width * 0.7}}>
         <TouchableOpacity style={styles.button}
-                          onPress={() => {navigation.navigate('Quotes')}}>
+                          onPress={() => {navigation.navigate('words')}}>
         <Image style={styles.textImage}
-                      source={require ('../assets/Quotes.png')}/>
+                      source={require ('../assets/words.png')}/>
         </TouchableOpacity>
         <TouchableOpacity style={styles.button}
                           onPress={() => {navigation.navigate('Sayings')}}>
