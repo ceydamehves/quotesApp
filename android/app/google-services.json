@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99520791123",
+    "project_id": "quotessayingidioms",
+    "storage_bucket": "quotessayingidioms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99520791123:android:0906ad726dc0a7be11fca6",
+        "android_client_info": {
+          "package_name": "com.leacofapp.words"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99520791123-st5vresuvmle8ln09tqiqggmlp26an8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ltUMdotijohpqoX5Se9XkB21g6JGTxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99520791123-st5vresuvmle8ln09tqiqggmlp26an8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
