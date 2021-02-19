@@ -33,7 +33,7 @@ const HomeScreen = () => {
       </View>
         <View  style={{flexDirection: 'row-reverse'}}>
         <TouchableOpacity style={styles.socialButtonP}
-                                onPress={() => Linking.openURL('https://play.google.com/store/apps/developer?id=ceydamehves')
+                                onPress={() => Linking.openURL('https://play.google.com/store/apps/details?id=com.leacofapp.beautyncare')
                                 .catch(err => console.error('An error occurred', err))}>
         <Image style={styles.socialImage}
                       source={require ('../assets/google-play.png')}/>
@@ -100,7 +100,7 @@ const styles = StyleSheet.create({
   },
   socialImage: {
     alignSelf:'center',
-    width: Dimensions.get('window').width * 0.125,
+    width: Dimensions.get('window').width * 0.13,
     height: Dimensions.get('window').height * 0.065,
     marginTop: 12
                        

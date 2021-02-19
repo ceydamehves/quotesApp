@@ -36,7 +36,7 @@ const QuotesScreen = () => {
                         source={require ('../assets/forward.png')}/>
         </TouchableOpacity>
       </View>
-      <View style={{height: Dimensions.get('window').height *0.15,position: 'absolute',bottom: 0,alignItems:'center'}}>
+      <View style={{justifyContent:'center'}}>
       <AdMobBanner
         adSize="fullBanner"
         adUnitID="ca-app-pub-3769777005365982/9569256693"

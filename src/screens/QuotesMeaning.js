@@ -1,5 +1,5 @@
 import React from 'react';
-import { ScrollView, Text, View, Image, TouchableOpacity, ImageBackground } from 'react-native';
+import { Text, View, Image, TouchableOpacity, ImageBackground } from 'react-native';
 import { StyleSheet,Dimensions } from 'react-native';
 import {AdMobBanner} from 'react-native-admob';
 
@@ -31,7 +31,7 @@ render(){
                         source={require ('../assets/Quotes.png')}/>
       </View>
 
-      <ScrollView style={{ flex: 1 , alignSelf:'center'}}>
+      <View style={{ flex: 1 , alignSelf:'center'}}>
         <View style={styles.title}>
           <Text style={styles.titleText}>TR</Text>
         </View>
@@ -45,15 +45,14 @@ render(){
         <View style={styles.textHolder}>
           <Text style={styles.text}>{this.state.en}</Text>
         </View>
-
-      </ScrollView>
-      <View style={{height: Dimensions.get('window').height *0.15,position: 'absolute',bottom: 0,alignItems:'center'}}>
+        <View style={{marginTop: 40, height: Dimensions.get('window').height * 0.15,width: Dimensions.get('window').width * 0.7, alignItems:'center'}}>
       <AdMobBanner
         adSize="fullBanner"
         adUnitID="ca-app-pub-3769777005365982/9569256693"
         testDevices={[AdMobBanner.simulatorId]}
         onAdFailedToLoad={error => console.error(error)}
       />
+      </View>
       </View>
       </ImageBackground>
       </View>
